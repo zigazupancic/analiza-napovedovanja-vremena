@@ -9,7 +9,9 @@ def pridobi_arso_podatke():
     data = data.text
     result = re.findall(r'<td class="meteoSI-th">\w*,\s(\d\d\.\d\d\.\d\d\d\d\s\d\d:\d\d).*id="t">(-?\d+.?\d*)</td>.*'
                     r'id="rh">(\d+)</td>.*</td>', data)
-    return reversed(uredi_podatke(result))
+    podatki = uredi_podatke(result)
+    podatki.reverse()
+    return podatki
 
 
 def uredi_podatke(podatki_iz_strani):
@@ -35,10 +37,13 @@ def dodaj_v_csv(podatki):
         for podatek in obstojeci_podatki:
             seznam_obstojecih_podatkov.append(podatek)
 
-        # TODO: Dodaj preverjanje, če je podatek že v csv datoteki in dodaj le tiste, ki niso
-
+        if seznam_obstojecih_podatkov != []:
+            zadnji = uredi_podatke(seznam_obstojecih_podatkov)[-1]
+            podatki = podatki[podatki.index(zadnji)+1:]
 
         vrste_podatkov = ['cas', 'temperatura', 'vlaznost']
         csv_pisi = csv.DictWriter(csvdatoteka, fieldnames=vrste_podatkov)
         for podatek in podatki:
             csv_pisi.writerow({'cas': podatek[0], 'temperatura': podatek[1], 'vlaznost': podatek[2]})
+
+dodaj_v_csv(pridobi_arso_podatke())
