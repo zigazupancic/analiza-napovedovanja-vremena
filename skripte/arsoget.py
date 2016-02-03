@@ -39,7 +39,10 @@ def dodaj_v_csv(podatki):
 
         if seznam_obstojecih_podatkov != []:
             zadnji = uredi_podatke(seznam_obstojecih_podatkov)[-1]
-            podatki = podatki[podatki.index(zadnji)+1:]
+            try:
+                podatki = podatki[podatki.index(zadnji)+1:]
+            except ValueError:
+                pass
 
         vrste_podatkov = ['cas', 'temperatura', 'vlaznost']
         csv_pisi = csv.DictWriter(csvdatoteka, fieldnames=vrste_podatkov)
