@@ -1,52 +1,22 @@
+"""Pridobi podatke o trenutni temperaturi in vlagi na meteo.arso.gov.si in jih zapiše v CSV datoteko"""
+
 import requests
 import re
-import time
-import csv
+from skripte import pripomocki
 
 def pridobi_arso_podatke():
+    pripomocki.logger.info("Pridobivam ARSO podatke.")
     data = requests.get("http://meteo.arso.gov.si/uploads/probase/www/observ/surface/text/sl/"
-                    "observationAms_PLANI-POD_history.html")
+                        "observationAms_PLANI-POD_history.html")
+
+    pripomocki.logger.info("Urejam ARSO podatke.")
     data = data.text
-    result = re.findall(r'<td class="meteoSI-th">\w*,\s(\d\d\.\d\d\.\d\d\d\d\s\d\d:\d\d).*id="t">(-?\d+.?\d*)</td>.*'
-                    r'id="rh">(\d+)</td>.*</td>', data)
-    podatki = uredi_podatke(result)
+    result = re.findall(r'<td class="meteoSI-th">.*,\s(\d\d\.\d\d\.\d\d\d\d\s\d+:00).*id="t">(-?\d+.?\d*)</td>.*'
+                        r'id="rh">(\d+)</td>.*</td>', data)
+    podatki = pripomocki.uredi_podatke(result)
     podatki.reverse()
+    pripomocki.logger.info("ARSO podatki urejeni.")
     return podatki
 
-
-def uredi_podatke(podatki_iz_strani):
-    urejeni_podatki = []
-    for cas, temperatura, vlaznost in podatki_iz_strani:
-        urejeni_podatki.append((cas, float(temperatura), int(vlaznost)))
-    return urejeni_podatki
-
-
-def pretvori_niz_v_cas(niz):
-    return time.strptime(niz, "%d.%m.%Y %H:%M")
-
-
-def pretvori_cas_v_niz(cas):
-    return "{}.{}.{} {}:{}".format(cas.tm_mday, cas.tm_mon, cas.tm_year, cas.tm_hour, cas.tm_min)
-
-def dodaj_v_csv(podatki):
-    """Ustvari datoteko arso.csv, če ne obstaja in doda podatke, ki še niso v datoteki"""
-    with open('arso.csv', 'a+') as csvdatoteka:
-        csvdatoteka.seek(0)
-        obstojeci_podatki = csv.reader(csvdatoteka)
-        seznam_obstojecih_podatkov = []
-        for podatek in obstojeci_podatki:
-            seznam_obstojecih_podatkov.append(podatek)
-
-        if seznam_obstojecih_podatkov != []:
-            zadnji = uredi_podatke(seznam_obstojecih_podatkov)[-1]
-            try:
-                podatki = podatki[podatki.index(zadnji)+1:]
-            except ValueError:
-                pass
-
-        vrste_podatkov = ['cas', 'temperatura', 'vlaznost']
-        csv_pisi = csv.DictWriter(csvdatoteka, fieldnames=vrste_podatkov)
-        for podatek in podatki:
-            csv_pisi.writerow({'cas': podatek[0], 'temperatura': podatek[1], 'vlaznost': podatek[2]})
-
-dodaj_v_csv(pridobi_arso_podatke())
+if __name__ == "__main__":
+    pripomocki.dodaj_v_csv(pridobi_arso_podatke(), "izmerjeni_podatki.csv", ["cas", "temperatura", "vlaznost"])
