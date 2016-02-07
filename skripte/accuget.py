@@ -1,4 +1,4 @@
-"""Pridobi podatke o napovedi temperature in vlage na accuweather.com in jih zapiše v CSV datoteko"""
+"""Pridobi podatke o napovedi temperature in vlage na accuweather.com in jih zapise v CSV datoteko"""
 
 import requests
 import re
@@ -9,24 +9,25 @@ import datetime
 
 def pridobi_accuweather_podatke(dan):
     pripomocki.logger.info("Pridobivam AccuWeather podatke.")
-    data = requests.get("http://m.accuweather.com/sl/si/planina-pod-golico/1562618/"
-                        "hourly-weather-forecast/299198?day={}".format(dan))
+    data = requests.get("http://m.accuweather.com/en/si/planina-pod-golico/1562618/"
+                        "hourly-weather-forecast/299198?ptab=o&day={}".format(dan))
 
     pripomocki.logger.info("Urejam AccuWeather podatke.")
     data = data.text
 
-    # TODO: Uredi datum in iskanje datuma
-    datum = re.search(r'<li class="date-span-label">... (\d.\d)</li>', data)
-    datum = datum.group(1) + ".{}".format(datetime.datetime.now().year)
+    meseci = {'Jan': 1, 'Feb': 2, 'Mar': 3, 'Apr': 4, 'May': 5, 'Jun': 6,
+              'Jul': 7, 'Aug': 8, 'Sep': 9, 'Oct': 10, 'Nov': 11, 'Dec': 12}
+    datum = re.search(r'<h2 class="grey">\w{3} (\w{3}) (\d+)</h2>', data)
+    datum = "{}.{}.{}".format(datum.group(2), meseci[datum.group(1)], datetime.datetime.now().year)
     datum = time.strftime("%d.%m.%Y", time.strptime(datum, "%d.%m.%Y"))
 
-    # TODO: Uredi regularni izraz, da najde čas, temperaturo in vlago
-    zacasni_podatki = re.findall(r'<li id="hour(\d*)"(.*\n){5}\s*<strong>(-?\d+.?\d*)&#176;</strong>(.*\n){16}\s*<li><b>.*</b> (\d+)%</li>', data)
+    zacasni_podatki = re.findall(r'<div name="hour_(\d\d)" class="wx-cell">\s*\n.*\n.*\n.*\n.*\n.*\n\s*<td class="temp"'
+                                 r'>(-?\d+.?\d*)&.*(\n.*){13}\n\s*<p>Humidity <b>(\d+).*</b></p>', data)
 
-    # TODO: Uredi zacasne podatke
     podatki = []
-    for cas, temperatura, vlaga in zacasni_podatki:
-        podatki.append((datum + " " + cas, temperatura, vlaga))
+    for cas, temperatura, _, vlaga in zacasni_podatki:
+        cas = "{}:00".format(int(cas))
+        podatki.append((datum + " {}".format(cas), temperatura, vlaga))
 
     podatki = pripomocki.uredi_podatke(podatki, True)
 
@@ -34,6 +35,6 @@ def pridobi_accuweather_podatke(dan):
     return podatki
 
 if __name__ == "__main__":
-    # TODO: Dodaj dneve od 1 do 5 v CSV datoteko
-    pridobi_accuweather_podatke(1)
-    pripomocki.dodaj_v_csv(danes, "accu_dan_{}.csv".format(dan), ["cas", "temperatura", "vlaga"])
+    for n in range(1, 5):
+        pripomocki.dodaj_v_csv(pridobi_accuweather_podatke(n), "accu_dan_{}.csv".format(n),
+                               ["cas", "temperatura", "vlaznost"])

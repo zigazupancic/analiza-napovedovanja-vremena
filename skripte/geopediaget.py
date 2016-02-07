@@ -1,4 +1,4 @@
-"""Pridobi podatke o napovedi temperature na vreme.geopedia.si in jih zapiše v CSV datoteko"""
+"""Pridobi podatke o napovedi temperature na vreme.geopedia.si in jih zapise v CSV datoteko"""
 
 import requests
 import re
@@ -19,9 +19,9 @@ def pridobi_geopedia_podatke():
     datum_jutri = time.strftime("%d.%m.%Y", time.strptime(datum_jutri.group(1), "%d.%m.%Y"))
 
     zacasni_podatki_danes = re.findall(r'<td>(\d\d:\d\d)</td>\s*\n\s*<td align="center"><img src=".*".*/></td>'
-                               r'<td align="center"><b>(-?\d+.?\d*)</b>', data)
+                                       r'<td align="center"><b>(-?\d+.?\d*)</b>', data)
     zacasni_podatki_jutri = re.findall(r'<td>\s(\d\d:\d\d)</td>\s*\n\s*<td align="center"><img src=".*".*/></td>'
-                               r'<td align="center"><b>(-?\d+.?\d*)</b>', data)
+                                       r'<td align="center"><b>(-?\d+.?\d*)</b>', data)
     podatki_danes = []
     for cas, temperatura in zacasni_podatki_danes:
         podatki_danes.append((datum_danes + " " + cas, temperatura))

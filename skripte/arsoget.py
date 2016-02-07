@@ -1,8 +1,9 @@
-"""Pridobi podatke o trenutni temperaturi in vlagi na meteo.arso.gov.si in jih zapiše v CSV datoteko"""
+"""Pridobi podatke o trenutni temperaturi in vlagi na meteo.arso.gov.si in jih zapise v CSV datoteko"""
 
 import requests
 import re
 from skripte import pripomocki
+
 
 def pridobi_arso_podatke():
     pripomocki.logger.info("Pridobivam ARSO podatke.")

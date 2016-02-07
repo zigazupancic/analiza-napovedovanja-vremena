@@ -7,12 +7,12 @@ import os
 logger = logging.getLogger('server_logger')
 logger.setLevel(logging.DEBUG)
 
-# Ustvari pomočnika za pisanje log-a v datoteko.
+# Ustvari pomocnika za pisanje log-a v datoteko.
 
 fh = logging.FileHandler('../log.txt')
 fh.setLevel(logging.DEBUG)
 
-# Ustvari pomočniga za pisanje log-a v konzolo.
+# Ustvari pomocnika za pisanje log-a v konzolo.
 
 ch = logging.StreamHandler()
 ch.setLevel(logging.DEBUG)
@@ -75,4 +75,4 @@ def dodaj_v_csv(podatki, ime_datoteke, vrste_podatkov):
                 stevec += 1
                 csv_pisi.writerow({'cas': podatek[0], 'temperatura': podatek[1]})
 
-    logger.info("Podatki [{}] uspešno zapisani v {}.".format(stevec, datoteka))
+    logger.info("Podatki [{}] uspesno zapisani v {}.".format(stevec, datoteka))
