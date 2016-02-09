@@ -32,7 +32,7 @@ def razvrsti_po_dnevih(podatki):
                 temp.append(podatek)
             else:
                 razvrsceni_podatki.append(temp)
-                temp = []
+                temp = [podatek]
         else:
             temp.append(podatek)
     return razvrsceni_podatki
