@@ -23,6 +23,7 @@ def pridobi_wunderground_podatke():
     pripomocki.logger.info("Wunderground podatki urejeni.")
     return koncni_podatki
 
+
 def razvrsti_po_dnevih(podatki):
     razvrsceni_podatki = []
     temp = []

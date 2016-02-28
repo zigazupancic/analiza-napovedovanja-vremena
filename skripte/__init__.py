@@ -1,0 +1,1 @@
+"""Skripte za pridobivanje vremenskih podatkov iz spleta"""
