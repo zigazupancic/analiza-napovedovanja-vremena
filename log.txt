@@ -1,0 +1,1088 @@
+2016-02-10 00:01:02 - INFO - Pridobivam ARSO podatke.
+2016-02-10 00:01:02 - INFO - Urejam ARSO podatke.
+2016-02-10 00:01:02 - INFO - ARSO podatki urejeni.
+2016-02-10 00:01:02 - INFO - Zapisujem podatke v ../csv/izmerjeni_podatki.csv.
+2016-02-10 00:01:02 - INFO - Podatki [48] uspesno zapisani v ../csv/izmerjeni_podatki.csv.
+2016-02-10 00:02:02 - INFO - Pridobivam AccuWeather podatke.
+2016-02-10 00:02:03 - INFO - Urejam AccuWeather podatke.
+2016-02-10 00:02:03 - INFO - AccuWeather podatki urejeni.
+2016-02-10 00:02:03 - INFO - Zapisujem podatke v ../csv/accu_dan_1.csv.
+2016-02-10 00:02:03 - INFO - Podatki [24] uspesno zapisani v ../csv/accu_dan_1.csv.
+2016-02-10 00:02:03 - INFO - Pridobivam AccuWeather podatke.
+2016-02-10 00:02:04 - INFO - Urejam AccuWeather podatke.
+2016-02-10 00:02:04 - INFO - AccuWeather podatki urejeni.
+2016-02-10 00:02:04 - INFO - Zapisujem podatke v ../csv/accu_dan_2.csv.
+2016-02-10 00:02:04 - INFO - Podatki [24] uspesno zapisani v ../csv/accu_dan_2.csv.
+2016-02-10 00:02:04 - INFO - Pridobivam AccuWeather podatke.
+2016-02-10 00:02:05 - INFO - Urejam AccuWeather podatke.
+2016-02-10 00:02:05 - INFO - AccuWeather podatki urejeni.
+2016-02-10 00:02:05 - INFO - Zapisujem podatke v ../csv/accu_dan_3.csv.
+2016-02-10 00:02:05 - INFO - Podatki [24] uspesno zapisani v ../csv/accu_dan_3.csv.
+2016-02-10 00:02:05 - INFO - Pridobivam AccuWeather podatke.
+2016-02-10 00:02:05 - INFO - Urejam AccuWeather podatke.
+2016-02-10 00:02:05 - INFO - AccuWeather podatki urejeni.
+2016-02-10 00:02:05 - INFO - Zapisujem podatke v ../csv/accu_dan_4.csv.
+2016-02-10 00:02:05 - INFO - Podatki [24] uspesno zapisani v ../csv/accu_dan_4.csv.
+2016-02-10 00:03:02 - INFO - Pridobivam Wunderground podatke.
+2016-02-10 00:03:03 - INFO - Urejam Wunderground podatke.
+2016-02-10 00:03:03 - INFO - Wunderground podatki urejeni.
+2016-02-10 00:03:03 - INFO - Zapisujem podatke v ../csv/wunder_dan_0.csv.
+2016-02-10 00:03:03 - INFO - Podatki [23] uspesno zapisani v ../csv/wunder_dan_0.csv.
+2016-02-10 00:03:03 - INFO - Zapisujem podatke v ../csv/wunder_dan_1.csv.
+2016-02-10 00:03:03 - INFO - Podatki [24] uspesno zapisani v ../csv/wunder_dan_1.csv.
+2016-02-10 00:03:03 - INFO - Zapisujem podatke v ../csv/wunder_dan_2.csv.
+2016-02-10 00:03:03 - INFO - Podatki [24] uspesno zapisani v ../csv/wunder_dan_2.csv.
+2016-02-10 00:03:03 - INFO - Zapisujem podatke v ../csv/wunder_dan_3.csv.
+2016-02-10 00:03:03 - INFO - Podatki [24] uspesno zapisani v ../csv/wunder_dan_3.csv.
+2016-02-10 00:03:03 - INFO - Zapisujem podatke v ../csv/wunder_dan_4.csv.
+2016-02-10 00:03:03 - INFO - Podatki [24] uspesno zapisani v ../csv/wunder_dan_4.csv.
+2016-02-10 00:03:03 - INFO - Zapisujem podatke v ../csv/wunder_dan_5.csv.
+2016-02-10 00:03:03 - INFO - Podatki [24] uspesno zapisani v ../csv/wunder_dan_5.csv.
+2016-02-10 00:03:03 - INFO - Zapisujem podatke v ../csv/wunder_dan_6.csv.
+2016-02-10 00:03:03 - INFO - Podatki [24] uspesno zapisani v ../csv/wunder_dan_6.csv.
+2016-02-10 00:03:03 - INFO - Zapisujem podatke v ../csv/wunder_dan_7.csv.
+2016-02-10 00:03:03 - INFO - Podatki [24] uspesno zapisani v ../csv/wunder_dan_7.csv.
+2016-02-10 00:03:03 - INFO - Zapisujem podatke v ../csv/wunder_dan_8.csv.
+2016-02-10 00:03:03 - INFO - Podatki [24] uspesno zapisani v ../csv/wunder_dan_8.csv.
+2016-02-10 00:03:03 - INFO - Zapisujem podatke v ../csv/wunder_dan_9.csv.
+2016-02-10 00:03:03 - INFO - Podatki [24] uspesno zapisani v ../csv/wunder_dan_9.csv.
+2016-02-10 02:59:02 - INFO - Pridobivam Geopedia podatke.
+2016-02-10 02:59:02 - INFO - Urejam Geopedia podatke.
+2016-02-10 02:59:02 - INFO - Geopedia podatki urejeni.
+2016-02-10 02:59:02 - INFO - Zapisujem podatke v ../csv/fmf_danes.csv.
+2016-02-10 02:59:02 - INFO - Podatki [17] uspesno zapisani v ../csv/fmf_danes.csv.
+2016-02-10 02:59:02 - INFO - Zapisujem podatke v ../csv/fmf_jutri.csv.
+2016-02-10 02:59:02 - INFO - Podatki [21] uspesno zapisani v ../csv/fmf_jutri.csv.
+2016-02-11 00:01:02 - INFO - Pridobivam ARSO podatke.
+2016-02-11 00:01:03 - INFO - Urejam ARSO podatke.
+2016-02-11 00:01:03 - INFO - ARSO podatki urejeni.
+2016-02-11 00:01:03 - INFO - Zapisujem podatke v ../csv/izmerjeni_podatki.csv.
+2016-02-11 00:01:03 - INFO - CSV ni prazen, dodajam.
+2016-02-11 00:01:03 - INFO - Podatki [24] uspesno zapisani v ../csv/izmerjeni_podatki.csv.
+2016-02-11 00:02:02 - INFO - Pridobivam AccuWeather podatke.
+2016-02-11 00:02:05 - INFO - Urejam AccuWeather podatke.
+2016-02-11 00:02:05 - INFO - AccuWeather podatki urejeni.
+2016-02-11 00:02:05 - INFO - Zapisujem podatke v ../csv/accu_dan_1.csv.
+2016-02-11 00:02:05 - INFO - CSV ni prazen, dodajam.
+2016-02-11 00:02:05 - INFO - Manjkajo vmesni podatki v ../csv/accu_dan_1.csv.
+2016-02-11 00:02:05 - INFO - Podatki [24] uspesno zapisani v ../csv/accu_dan_1.csv.
+2016-02-11 00:02:05 - INFO - Pridobivam AccuWeather podatke.
+2016-02-11 00:02:08 - INFO - Urejam AccuWeather podatke.
+2016-02-11 00:02:08 - INFO - AccuWeather podatki urejeni.
+2016-02-11 00:02:08 - INFO - Zapisujem podatke v ../csv/accu_dan_2.csv.
+2016-02-11 00:02:08 - INFO - CSV ni prazen, dodajam.
+2016-02-11 00:02:08 - INFO - Manjkajo vmesni podatki v ../csv/accu_dan_2.csv.
+2016-02-11 00:02:08 - INFO - Podatki [24] uspesno zapisani v ../csv/accu_dan_2.csv.
+2016-02-11 00:02:08 - INFO - Pridobivam AccuWeather podatke.
+2016-02-11 00:02:13 - INFO - Urejam AccuWeather podatke.
+2016-02-11 00:02:13 - INFO - AccuWeather podatki urejeni.
+2016-02-11 00:02:13 - INFO - Zapisujem podatke v ../csv/accu_dan_3.csv.
+2016-02-11 00:02:13 - INFO - CSV ni prazen, dodajam.
+2016-02-11 00:02:13 - INFO - Manjkajo vmesni podatki v ../csv/accu_dan_3.csv.
+2016-02-11 00:02:13 - INFO - Podatki [24] uspesno zapisani v ../csv/accu_dan_3.csv.
+2016-02-11 00:02:13 - INFO - Pridobivam AccuWeather podatke.
+2016-02-11 00:02:16 - INFO - Urejam AccuWeather podatke.
+2016-02-11 00:02:16 - INFO - AccuWeather podatki urejeni.
+2016-02-11 00:02:16 - INFO - Zapisujem podatke v ../csv/accu_dan_4.csv.
+2016-02-11 00:02:16 - INFO - CSV ni prazen, dodajam.
+2016-02-11 00:02:16 - INFO - Manjkajo vmesni podatki v ../csv/accu_dan_4.csv.
+2016-02-11 00:02:16 - INFO - Podatki [24] uspesno zapisani v ../csv/accu_dan_4.csv.
+2016-02-11 00:03:02 - INFO - Pridobivam Wunderground podatke.
+2016-02-11 00:03:03 - INFO - Urejam Wunderground podatke.
+2016-02-11 00:03:03 - INFO - Wunderground podatki urejeni.
+2016-02-11 00:03:03 - INFO - Zapisujem podatke v ../csv/wunder_dan_0.csv.
+2016-02-11 00:03:03 - INFO - CSV ni prazen, dodajam.
+2016-02-11 00:03:03 - INFO - Manjkajo vmesni podatki v ../csv/wunder_dan_0.csv.
+2016-02-11 00:03:03 - INFO - Podatki [23] uspesno zapisani v ../csv/wunder_dan_0.csv.
+2016-02-11 00:03:03 - INFO - Zapisujem podatke v ../csv/wunder_dan_1.csv.
+2016-02-11 00:03:03 - INFO - CSV ni prazen, dodajam.
+2016-02-11 00:03:03 - INFO - Manjkajo vmesni podatki v ../csv/wunder_dan_1.csv.
+2016-02-11 00:03:03 - INFO - Podatki [24] uspesno zapisani v ../csv/wunder_dan_1.csv.
+2016-02-11 00:03:03 - INFO - Zapisujem podatke v ../csv/wunder_dan_2.csv.
+2016-02-11 00:03:03 - INFO - CSV ni prazen, dodajam.
+2016-02-11 00:03:03 - INFO - Manjkajo vmesni podatki v ../csv/wunder_dan_2.csv.
+2016-02-11 00:03:03 - INFO - Podatki [24] uspesno zapisani v ../csv/wunder_dan_2.csv.
+2016-02-11 00:03:03 - INFO - Zapisujem podatke v ../csv/wunder_dan_3.csv.
+2016-02-11 00:03:03 - INFO - CSV ni prazen, dodajam.
+2016-02-11 00:03:03 - INFO - Manjkajo vmesni podatki v ../csv/wunder_dan_3.csv.
+2016-02-11 00:03:03 - INFO - Podatki [24] uspesno zapisani v ../csv/wunder_dan_3.csv.
+2016-02-11 00:03:03 - INFO - Zapisujem podatke v ../csv/wunder_dan_4.csv.
+2016-02-11 00:03:03 - INFO - CSV ni prazen, dodajam.
+2016-02-11 00:03:03 - INFO - Manjkajo vmesni podatki v ../csv/wunder_dan_4.csv.
+2016-02-11 00:03:03 - INFO - Podatki [24] uspesno zapisani v ../csv/wunder_dan_4.csv.
+2016-02-11 00:03:03 - INFO - Zapisujem podatke v ../csv/wunder_dan_5.csv.
+2016-02-11 00:03:03 - INFO - CSV ni prazen, dodajam.
+2016-02-11 00:03:03 - INFO - Manjkajo vmesni podatki v ../csv/wunder_dan_5.csv.
+2016-02-11 00:03:03 - INFO - Podatki [24] uspesno zapisani v ../csv/wunder_dan_5.csv.
+2016-02-11 00:03:03 - INFO - Zapisujem podatke v ../csv/wunder_dan_6.csv.
+2016-02-11 00:03:03 - INFO - CSV ni prazen, dodajam.
+2016-02-11 00:03:03 - INFO - Manjkajo vmesni podatki v ../csv/wunder_dan_6.csv.
+2016-02-11 00:03:03 - INFO - Podatki [24] uspesno zapisani v ../csv/wunder_dan_6.csv.
+2016-02-11 00:03:03 - INFO - Zapisujem podatke v ../csv/wunder_dan_7.csv.
+2016-02-11 00:03:03 - INFO - CSV ni prazen, dodajam.
+2016-02-11 00:03:03 - INFO - Manjkajo vmesni podatki v ../csv/wunder_dan_7.csv.
+2016-02-11 00:03:03 - INFO - Podatki [24] uspesno zapisani v ../csv/wunder_dan_7.csv.
+2016-02-11 00:03:03 - INFO - Zapisujem podatke v ../csv/wunder_dan_8.csv.
+2016-02-11 00:03:03 - INFO - CSV ni prazen, dodajam.
+2016-02-11 00:03:03 - INFO - Manjkajo vmesni podatki v ../csv/wunder_dan_8.csv.
+2016-02-11 00:03:03 - INFO - Podatki [24] uspesno zapisani v ../csv/wunder_dan_8.csv.
+2016-02-11 00:03:03 - INFO - Zapisujem podatke v ../csv/wunder_dan_9.csv.
+2016-02-11 00:03:03 - INFO - CSV ni prazen, dodajam.
+2016-02-11 00:03:03 - INFO - Manjkajo vmesni podatki v ../csv/wunder_dan_9.csv.
+2016-02-11 00:03:03 - INFO - Podatki [24] uspesno zapisani v ../csv/wunder_dan_9.csv.
+2016-02-11 02:59:02 - INFO - Pridobivam Geopedia podatke.
+2016-02-11 02:59:02 - INFO - Urejam Geopedia podatke.
+2016-02-11 02:59:02 - INFO - Geopedia podatki urejeni.
+2016-02-11 02:59:02 - INFO - Zapisujem podatke v ../csv/fmf_danes.csv.
+2016-02-11 02:59:02 - INFO - CSV ni prazen, dodajam.
+2016-02-11 02:59:02 - INFO - Manjkajo vmesni podatki v ../csv/fmf_danes.csv.
+2016-02-11 02:59:02 - INFO - Podatki [17] uspesno zapisani v ../csv/fmf_danes.csv.
+2016-02-11 02:59:02 - INFO - Zapisujem podatke v ../csv/fmf_jutri.csv.
+2016-02-11 02:59:02 - INFO - CSV ni prazen, dodajam.
+2016-02-11 02:59:02 - INFO - Manjkajo vmesni podatki v ../csv/fmf_jutri.csv.
+2016-02-11 02:59:02 - INFO - Podatki [21] uspesno zapisani v ../csv/fmf_jutri.csv.
+2016-02-12 00:01:02 - INFO - Pridobivam ARSO podatke.
+2016-02-12 00:01:03 - INFO - Urejam ARSO podatke.
+2016-02-12 00:01:03 - INFO - ARSO podatki urejeni.
+2016-02-12 00:01:03 - INFO - Zapisujem podatke v ../csv/izmerjeni_podatki.csv.
+2016-02-12 00:01:03 - INFO - CSV ni prazen, dodajam.
+2016-02-12 00:01:03 - INFO - Podatki [24] uspesno zapisani v ../csv/izmerjeni_podatki.csv.
+2016-02-12 00:02:02 - INFO - Pridobivam AccuWeather podatke.
+2016-02-12 00:02:02 - INFO - Urejam AccuWeather podatke.
+2016-02-12 00:02:03 - INFO - AccuWeather podatki urejeni.
+2016-02-12 00:02:03 - INFO - Zapisujem podatke v ../csv/accu_dan_1.csv.
+2016-02-12 00:02:03 - INFO - CSV ni prazen, dodajam.
+2016-02-12 00:02:03 - INFO - Manjkajo vmesni podatki v ../csv/accu_dan_1.csv.
+2016-02-12 00:02:03 - INFO - Podatki [24] uspesno zapisani v ../csv/accu_dan_1.csv.
+2016-02-12 00:02:03 - INFO - Pridobivam AccuWeather podatke.
+2016-02-12 00:02:03 - INFO - Urejam AccuWeather podatke.
+2016-02-12 00:02:03 - INFO - AccuWeather podatki urejeni.
+2016-02-12 00:02:03 - INFO - Zapisujem podatke v ../csv/accu_dan_2.csv.
+2016-02-12 00:02:03 - INFO - CSV ni prazen, dodajam.
+2016-02-12 00:02:03 - INFO - Manjkajo vmesni podatki v ../csv/accu_dan_2.csv.
+2016-02-12 00:02:03 - INFO - Podatki [24] uspesno zapisani v ../csv/accu_dan_2.csv.
+2016-02-12 00:02:03 - INFO - Pridobivam AccuWeather podatke.
+2016-02-12 00:02:04 - INFO - Urejam AccuWeather podatke.
+2016-02-12 00:02:04 - INFO - AccuWeather podatki urejeni.
+2016-02-12 00:02:04 - INFO - Zapisujem podatke v ../csv/accu_dan_3.csv.
+2016-02-12 00:02:04 - INFO - CSV ni prazen, dodajam.
+2016-02-12 00:02:04 - INFO - Manjkajo vmesni podatki v ../csv/accu_dan_3.csv.
+2016-02-12 00:02:04 - INFO - Podatki [24] uspesno zapisani v ../csv/accu_dan_3.csv.
+2016-02-12 00:02:04 - INFO - Pridobivam AccuWeather podatke.
+2016-02-12 00:02:04 - INFO - Urejam AccuWeather podatke.
+2016-02-12 00:02:04 - INFO - AccuWeather podatki urejeni.
+2016-02-12 00:02:04 - INFO - Zapisujem podatke v ../csv/accu_dan_4.csv.
+2016-02-12 00:02:04 - INFO - CSV ni prazen, dodajam.
+2016-02-12 00:02:04 - INFO - Manjkajo vmesni podatki v ../csv/accu_dan_4.csv.
+2016-02-12 00:02:04 - INFO - Podatki [24] uspesno zapisani v ../csv/accu_dan_4.csv.
+2016-02-12 00:03:02 - INFO - Pridobivam Wunderground podatke.
+2016-02-12 00:03:03 - INFO - Urejam Wunderground podatke.
+2016-02-12 00:03:03 - INFO - Wunderground podatki urejeni.
+2016-02-12 00:03:03 - INFO - Zapisujem podatke v ../csv/wunder_dan_0.csv.
+2016-02-12 00:03:03 - INFO - CSV ni prazen, dodajam.
+2016-02-12 00:03:03 - INFO - Manjkajo vmesni podatki v ../csv/wunder_dan_0.csv.
+2016-02-12 00:03:03 - INFO - Podatki [23] uspesno zapisani v ../csv/wunder_dan_0.csv.
+2016-02-12 00:03:03 - INFO - Zapisujem podatke v ../csv/wunder_dan_1.csv.
+2016-02-12 00:03:03 - INFO - CSV ni prazen, dodajam.
+2016-02-12 00:03:03 - INFO - Manjkajo vmesni podatki v ../csv/wunder_dan_1.csv.
+2016-02-12 00:03:03 - INFO - Podatki [24] uspesno zapisani v ../csv/wunder_dan_1.csv.
+2016-02-12 00:03:03 - INFO - Zapisujem podatke v ../csv/wunder_dan_2.csv.
+2016-02-12 00:03:03 - INFO - CSV ni prazen, dodajam.
+2016-02-12 00:03:03 - INFO - Manjkajo vmesni podatki v ../csv/wunder_dan_2.csv.
+2016-02-12 00:03:03 - INFO - Podatki [24] uspesno zapisani v ../csv/wunder_dan_2.csv.
+2016-02-12 00:03:03 - INFO - Zapisujem podatke v ../csv/wunder_dan_3.csv.
+2016-02-12 00:03:03 - INFO - CSV ni prazen, dodajam.
+2016-02-12 00:03:03 - INFO - Manjkajo vmesni podatki v ../csv/wunder_dan_3.csv.
+2016-02-12 00:03:03 - INFO - Podatki [24] uspesno zapisani v ../csv/wunder_dan_3.csv.
+2016-02-12 00:03:03 - INFO - Zapisujem podatke v ../csv/wunder_dan_4.csv.
+2016-02-12 00:03:03 - INFO - CSV ni prazen, dodajam.
+2016-02-12 00:03:03 - INFO - Manjkajo vmesni podatki v ../csv/wunder_dan_4.csv.
+2016-02-12 00:03:03 - INFO - Podatki [24] uspesno zapisani v ../csv/wunder_dan_4.csv.
+2016-02-12 00:03:03 - INFO - Zapisujem podatke v ../csv/wunder_dan_5.csv.
+2016-02-12 00:03:03 - INFO - CSV ni prazen, dodajam.
+2016-02-12 00:03:03 - INFO - Manjkajo vmesni podatki v ../csv/wunder_dan_5.csv.
+2016-02-12 00:03:03 - INFO - Podatki [24] uspesno zapisani v ../csv/wunder_dan_5.csv.
+2016-02-12 00:03:03 - INFO - Zapisujem podatke v ../csv/wunder_dan_6.csv.
+2016-02-12 00:03:03 - INFO - CSV ni prazen, dodajam.
+2016-02-12 00:03:03 - INFO - Manjkajo vmesni podatki v ../csv/wunder_dan_6.csv.
+2016-02-12 00:03:03 - INFO - Podatki [24] uspesno zapisani v ../csv/wunder_dan_6.csv.
+2016-02-12 00:03:03 - INFO - Zapisujem podatke v ../csv/wunder_dan_7.csv.
+2016-02-12 00:03:03 - INFO - CSV ni prazen, dodajam.
+2016-02-12 00:03:03 - INFO - Manjkajo vmesni podatki v ../csv/wunder_dan_7.csv.
+2016-02-12 00:03:03 - INFO - Podatki [24] uspesno zapisani v ../csv/wunder_dan_7.csv.
+2016-02-12 00:03:03 - INFO - Zapisujem podatke v ../csv/wunder_dan_8.csv.
+2016-02-12 00:03:03 - INFO - CSV ni prazen, dodajam.
+2016-02-12 00:03:03 - INFO - Manjkajo vmesni podatki v ../csv/wunder_dan_8.csv.
+2016-02-12 00:03:03 - INFO - Podatki [24] uspesno zapisani v ../csv/wunder_dan_8.csv.
+2016-02-12 00:03:03 - INFO - Zapisujem podatke v ../csv/wunder_dan_9.csv.
+2016-02-12 00:03:03 - INFO - CSV ni prazen, dodajam.
+2016-02-12 00:03:03 - INFO - Manjkajo vmesni podatki v ../csv/wunder_dan_9.csv.
+2016-02-12 00:03:03 - INFO - Podatki [24] uspesno zapisani v ../csv/wunder_dan_9.csv.
+2016-02-12 02:59:02 - INFO - Pridobivam Geopedia podatke.
+2016-02-12 02:59:02 - INFO - Urejam Geopedia podatke.
+2016-02-12 02:59:02 - INFO - Geopedia podatki urejeni.
+2016-02-12 02:59:02 - INFO - Zapisujem podatke v ../csv/fmf_danes.csv.
+2016-02-12 02:59:02 - INFO - CSV ni prazen, dodajam.
+2016-02-12 02:59:02 - INFO - Manjkajo vmesni podatki v ../csv/fmf_danes.csv.
+2016-02-12 02:59:02 - INFO - Podatki [17] uspesno zapisani v ../csv/fmf_danes.csv.
+2016-02-12 02:59:02 - INFO - Zapisujem podatke v ../csv/fmf_jutri.csv.
+2016-02-12 02:59:02 - INFO - CSV ni prazen, dodajam.
+2016-02-12 02:59:02 - INFO - Manjkajo vmesni podatki v ../csv/fmf_jutri.csv.
+2016-02-12 02:59:02 - INFO - Podatki [21] uspesno zapisani v ../csv/fmf_jutri.csv.
+2016-02-13 00:01:02 - INFO - Pridobivam ARSO podatke.
+2016-02-13 00:01:03 - INFO - Urejam ARSO podatke.
+2016-02-13 00:01:03 - INFO - ARSO podatki urejeni.
+2016-02-13 00:01:03 - INFO - Zapisujem podatke v ../csv/izmerjeni_podatki.csv.
+2016-02-13 00:01:03 - INFO - CSV ni prazen, dodajam.
+2016-02-13 00:01:03 - INFO - Podatki [24] uspesno zapisani v ../csv/izmerjeni_podatki.csv.
+2016-02-13 00:02:02 - INFO - Pridobivam AccuWeather podatke.
+2016-02-13 00:02:03 - INFO - Urejam AccuWeather podatke.
+2016-02-13 00:02:03 - INFO - AccuWeather podatki urejeni.
+2016-02-13 00:02:03 - INFO - Zapisujem podatke v ../csv/accu_dan_1.csv.
+2016-02-13 00:02:03 - INFO - CSV ni prazen, dodajam.
+2016-02-13 00:02:03 - INFO - Manjkajo vmesni podatki v ../csv/accu_dan_1.csv.
+2016-02-13 00:02:03 - INFO - Podatki [24] uspesno zapisani v ../csv/accu_dan_1.csv.
+2016-02-13 00:02:03 - INFO - Pridobivam AccuWeather podatke.
+2016-02-13 00:02:03 - INFO - Urejam AccuWeather podatke.
+2016-02-13 00:02:03 - INFO - AccuWeather podatki urejeni.
+2016-02-13 00:02:03 - INFO - Zapisujem podatke v ../csv/accu_dan_2.csv.
+2016-02-13 00:02:03 - INFO - CSV ni prazen, dodajam.
+2016-02-13 00:02:03 - INFO - Manjkajo vmesni podatki v ../csv/accu_dan_2.csv.
+2016-02-13 00:02:03 - INFO - Podatki [24] uspesno zapisani v ../csv/accu_dan_2.csv.
+2016-02-13 00:02:03 - INFO - Pridobivam AccuWeather podatke.
+2016-02-13 00:02:04 - INFO - Urejam AccuWeather podatke.
+2016-02-13 00:02:04 - INFO - AccuWeather podatki urejeni.
+2016-02-13 00:02:04 - INFO - Zapisujem podatke v ../csv/accu_dan_3.csv.
+2016-02-13 00:02:04 - INFO - CSV ni prazen, dodajam.
+2016-02-13 00:02:04 - INFO - Manjkajo vmesni podatki v ../csv/accu_dan_3.csv.
+2016-02-13 00:02:04 - INFO - Podatki [24] uspesno zapisani v ../csv/accu_dan_3.csv.
+2016-02-13 00:02:04 - INFO - Pridobivam AccuWeather podatke.
+2016-02-13 00:02:05 - INFO - Urejam AccuWeather podatke.
+2016-02-13 00:02:05 - INFO - AccuWeather podatki urejeni.
+2016-02-13 00:02:05 - INFO - Zapisujem podatke v ../csv/accu_dan_4.csv.
+2016-02-13 00:02:05 - INFO - CSV ni prazen, dodajam.
+2016-02-13 00:02:05 - INFO - Manjkajo vmesni podatki v ../csv/accu_dan_4.csv.
+2016-02-13 00:02:05 - INFO - Podatki [24] uspesno zapisani v ../csv/accu_dan_4.csv.
+2016-02-13 00:03:02 - INFO - Pridobivam Wunderground podatke.
+2016-02-13 00:03:03 - INFO - Urejam Wunderground podatke.
+2016-02-13 00:03:03 - INFO - Wunderground podatki urejeni.
+2016-02-13 00:03:03 - INFO - Zapisujem podatke v ../csv/wunder_dan_0.csv.
+2016-02-13 00:03:03 - INFO - CSV ni prazen, dodajam.
+2016-02-13 00:03:03 - INFO - Manjkajo vmesni podatki v ../csv/wunder_dan_0.csv.
+2016-02-13 00:03:03 - INFO - Podatki [23] uspesno zapisani v ../csv/wunder_dan_0.csv.
+2016-02-13 00:03:03 - INFO - Zapisujem podatke v ../csv/wunder_dan_1.csv.
+2016-02-13 00:03:03 - INFO - CSV ni prazen, dodajam.
+2016-02-13 00:03:03 - INFO - Manjkajo vmesni podatki v ../csv/wunder_dan_1.csv.
+2016-02-13 00:03:03 - INFO - Podatki [24] uspesno zapisani v ../csv/wunder_dan_1.csv.
+2016-02-13 00:03:03 - INFO - Zapisujem podatke v ../csv/wunder_dan_2.csv.
+2016-02-13 00:03:03 - INFO - CSV ni prazen, dodajam.
+2016-02-13 00:03:03 - INFO - Manjkajo vmesni podatki v ../csv/wunder_dan_2.csv.
+2016-02-13 00:03:03 - INFO - Podatki [24] uspesno zapisani v ../csv/wunder_dan_2.csv.
+2016-02-13 00:03:03 - INFO - Zapisujem podatke v ../csv/wunder_dan_3.csv.
+2016-02-13 00:03:03 - INFO - CSV ni prazen, dodajam.
+2016-02-13 00:03:03 - INFO - Manjkajo vmesni podatki v ../csv/wunder_dan_3.csv.
+2016-02-13 00:03:03 - INFO - Podatki [24] uspesno zapisani v ../csv/wunder_dan_3.csv.
+2016-02-13 00:03:03 - INFO - Zapisujem podatke v ../csv/wunder_dan_4.csv.
+2016-02-13 00:03:03 - INFO - CSV ni prazen, dodajam.
+2016-02-13 00:03:03 - INFO - Manjkajo vmesni podatki v ../csv/wunder_dan_4.csv.
+2016-02-13 00:03:03 - INFO - Podatki [24] uspesno zapisani v ../csv/wunder_dan_4.csv.
+2016-02-13 00:03:03 - INFO - Zapisujem podatke v ../csv/wunder_dan_5.csv.
+2016-02-13 00:03:03 - INFO - CSV ni prazen, dodajam.
+2016-02-13 00:03:03 - INFO - Manjkajo vmesni podatki v ../csv/wunder_dan_5.csv.
+2016-02-13 00:03:03 - INFO - Podatki [24] uspesno zapisani v ../csv/wunder_dan_5.csv.
+2016-02-13 00:03:03 - INFO - Zapisujem podatke v ../csv/wunder_dan_6.csv.
+2016-02-13 00:03:03 - INFO - CSV ni prazen, dodajam.
+2016-02-13 00:03:03 - INFO - Manjkajo vmesni podatki v ../csv/wunder_dan_6.csv.
+2016-02-13 00:03:03 - INFO - Podatki [24] uspesno zapisani v ../csv/wunder_dan_6.csv.
+2016-02-13 00:03:03 - INFO - Zapisujem podatke v ../csv/wunder_dan_7.csv.
+2016-02-13 00:03:03 - INFO - CSV ni prazen, dodajam.
+2016-02-13 00:03:03 - INFO - Manjkajo vmesni podatki v ../csv/wunder_dan_7.csv.
+2016-02-13 00:03:03 - INFO - Podatki [24] uspesno zapisani v ../csv/wunder_dan_7.csv.
+2016-02-13 00:03:03 - INFO - Zapisujem podatke v ../csv/wunder_dan_8.csv.
+2016-02-13 00:03:03 - INFO - CSV ni prazen, dodajam.
+2016-02-13 00:03:03 - INFO - Manjkajo vmesni podatki v ../csv/wunder_dan_8.csv.
+2016-02-13 00:03:03 - INFO - Podatki [24] uspesno zapisani v ../csv/wunder_dan_8.csv.
+2016-02-13 00:03:03 - INFO - Zapisujem podatke v ../csv/wunder_dan_9.csv.
+2016-02-13 00:03:03 - INFO - CSV ni prazen, dodajam.
+2016-02-13 00:03:03 - INFO - Manjkajo vmesni podatki v ../csv/wunder_dan_9.csv.
+2016-02-13 00:03:03 - INFO - Podatki [24] uspesno zapisani v ../csv/wunder_dan_9.csv.
+2016-02-13 02:59:02 - INFO - Pridobivam Geopedia podatke.
+2016-02-13 02:59:03 - INFO - Urejam Geopedia podatke.
+2016-02-13 02:59:03 - INFO - Geopedia podatki urejeni.
+2016-02-13 02:59:03 - INFO - Zapisujem podatke v ../csv/fmf_danes.csv.
+2016-02-13 02:59:03 - INFO - CSV ni prazen, dodajam.
+2016-02-13 02:59:03 - INFO - Manjkajo vmesni podatki v ../csv/fmf_danes.csv.
+2016-02-13 02:59:03 - INFO - Podatki [17] uspesno zapisani v ../csv/fmf_danes.csv.
+2016-02-13 02:59:03 - INFO - Zapisujem podatke v ../csv/fmf_jutri.csv.
+2016-02-13 02:59:03 - INFO - CSV ni prazen, dodajam.
+2016-02-13 02:59:03 - INFO - Manjkajo vmesni podatki v ../csv/fmf_jutri.csv.
+2016-02-13 02:59:03 - INFO - Podatki [21] uspesno zapisani v ../csv/fmf_jutri.csv.
+2016-02-14 00:01:02 - INFO - Pridobivam ARSO podatke.
+2016-02-14 00:01:02 - INFO - Urejam ARSO podatke.
+2016-02-14 00:01:02 - INFO - ARSO podatki urejeni.
+2016-02-14 00:01:02 - INFO - Zapisujem podatke v ../csv/izmerjeni_podatki.csv.
+2016-02-14 00:01:02 - INFO - CSV ni prazen, dodajam.
+2016-02-14 00:01:02 - INFO - Podatki [24] uspesno zapisani v ../csv/izmerjeni_podatki.csv.
+2016-02-14 00:02:02 - INFO - Pridobivam AccuWeather podatke.
+2016-02-14 00:02:03 - INFO - Urejam AccuWeather podatke.
+2016-02-14 00:02:03 - INFO - AccuWeather podatki urejeni.
+2016-02-14 00:02:03 - INFO - Zapisujem podatke v ../csv/accu_dan_1.csv.
+2016-02-14 00:02:03 - INFO - CSV ni prazen, dodajam.
+2016-02-14 00:02:03 - INFO - Manjkajo vmesni podatki v ../csv/accu_dan_1.csv.
+2016-02-14 00:02:03 - INFO - Podatki [24] uspesno zapisani v ../csv/accu_dan_1.csv.
+2016-02-14 00:02:03 - INFO - Pridobivam AccuWeather podatke.
+2016-02-14 00:02:04 - INFO - Urejam AccuWeather podatke.
+2016-02-14 00:02:04 - INFO - AccuWeather podatki urejeni.
+2016-02-14 00:02:04 - INFO - Zapisujem podatke v ../csv/accu_dan_2.csv.
+2016-02-14 00:02:04 - INFO - CSV ni prazen, dodajam.
+2016-02-14 00:02:04 - INFO - Manjkajo vmesni podatki v ../csv/accu_dan_2.csv.
+2016-02-14 00:02:04 - INFO - Podatki [24] uspesno zapisani v ../csv/accu_dan_2.csv.
+2016-02-14 00:02:04 - INFO - Pridobivam AccuWeather podatke.
+2016-02-14 00:02:04 - INFO - Urejam AccuWeather podatke.
+2016-02-14 00:02:04 - INFO - AccuWeather podatki urejeni.
+2016-02-14 00:02:04 - INFO - Zapisujem podatke v ../csv/accu_dan_3.csv.
+2016-02-14 00:02:04 - INFO - CSV ni prazen, dodajam.
+2016-02-14 00:02:04 - INFO - Manjkajo vmesni podatki v ../csv/accu_dan_3.csv.
+2016-02-14 00:02:04 - INFO - Podatki [24] uspesno zapisani v ../csv/accu_dan_3.csv.
+2016-02-14 00:02:04 - INFO - Pridobivam AccuWeather podatke.
+2016-02-14 00:02:05 - INFO - Urejam AccuWeather podatke.
+2016-02-14 00:02:05 - INFO - AccuWeather podatki urejeni.
+2016-02-14 00:02:05 - INFO - Zapisujem podatke v ../csv/accu_dan_4.csv.
+2016-02-14 00:02:05 - INFO - CSV ni prazen, dodajam.
+2016-02-14 00:02:05 - INFO - Manjkajo vmesni podatki v ../csv/accu_dan_4.csv.
+2016-02-14 00:02:05 - INFO - Podatki [24] uspesno zapisani v ../csv/accu_dan_4.csv.
+2016-02-14 00:03:02 - INFO - Pridobivam Wunderground podatke.
+2016-02-14 00:03:04 - INFO - Urejam Wunderground podatke.
+2016-02-14 00:03:04 - INFO - Wunderground podatki urejeni.
+2016-02-14 00:03:04 - INFO - Zapisujem podatke v ../csv/wunder_dan_0.csv.
+2016-02-14 00:03:04 - INFO - CSV ni prazen, dodajam.
+2016-02-14 00:03:04 - INFO - Manjkajo vmesni podatki v ../csv/wunder_dan_0.csv.
+2016-02-14 00:03:04 - INFO - Podatki [23] uspesno zapisani v ../csv/wunder_dan_0.csv.
+2016-02-14 00:03:04 - INFO - Zapisujem podatke v ../csv/wunder_dan_1.csv.
+2016-02-14 00:03:04 - INFO - CSV ni prazen, dodajam.
+2016-02-14 00:03:04 - INFO - Manjkajo vmesni podatki v ../csv/wunder_dan_1.csv.
+2016-02-14 00:03:04 - INFO - Podatki [24] uspesno zapisani v ../csv/wunder_dan_1.csv.
+2016-02-14 00:03:04 - INFO - Zapisujem podatke v ../csv/wunder_dan_2.csv.
+2016-02-14 00:03:04 - INFO - CSV ni prazen, dodajam.
+2016-02-14 00:03:04 - INFO - Manjkajo vmesni podatki v ../csv/wunder_dan_2.csv.
+2016-02-14 00:03:04 - INFO - Podatki [24] uspesno zapisani v ../csv/wunder_dan_2.csv.
+2016-02-14 00:03:04 - INFO - Zapisujem podatke v ../csv/wunder_dan_3.csv.
+2016-02-14 00:03:04 - INFO - CSV ni prazen, dodajam.
+2016-02-14 00:03:04 - INFO - Manjkajo vmesni podatki v ../csv/wunder_dan_3.csv.
+2016-02-14 00:03:04 - INFO - Podatki [24] uspesno zapisani v ../csv/wunder_dan_3.csv.
+2016-02-14 00:03:04 - INFO - Zapisujem podatke v ../csv/wunder_dan_4.csv.
+2016-02-14 00:03:04 - INFO - CSV ni prazen, dodajam.
+2016-02-14 00:03:04 - INFO - Manjkajo vmesni podatki v ../csv/wunder_dan_4.csv.
+2016-02-14 00:03:04 - INFO - Podatki [24] uspesno zapisani v ../csv/wunder_dan_4.csv.
+2016-02-14 00:03:04 - INFO - Zapisujem podatke v ../csv/wunder_dan_5.csv.
+2016-02-14 00:03:04 - INFO - CSV ni prazen, dodajam.
+2016-02-14 00:03:04 - INFO - Manjkajo vmesni podatki v ../csv/wunder_dan_5.csv.
+2016-02-14 00:03:04 - INFO - Podatki [24] uspesno zapisani v ../csv/wunder_dan_5.csv.
+2016-02-14 00:03:04 - INFO - Zapisujem podatke v ../csv/wunder_dan_6.csv.
+2016-02-14 00:03:04 - INFO - CSV ni prazen, dodajam.
+2016-02-14 00:03:04 - INFO - Manjkajo vmesni podatki v ../csv/wunder_dan_6.csv.
+2016-02-14 00:03:04 - INFO - Podatki [24] uspesno zapisani v ../csv/wunder_dan_6.csv.
+2016-02-14 00:03:04 - INFO - Zapisujem podatke v ../csv/wunder_dan_7.csv.
+2016-02-14 00:03:04 - INFO - CSV ni prazen, dodajam.
+2016-02-14 00:03:04 - INFO - Manjkajo vmesni podatki v ../csv/wunder_dan_7.csv.
+2016-02-14 00:03:04 - INFO - Podatki [24] uspesno zapisani v ../csv/wunder_dan_7.csv.
+2016-02-14 00:03:04 - INFO - Zapisujem podatke v ../csv/wunder_dan_8.csv.
+2016-02-14 00:03:04 - INFO - CSV ni prazen, dodajam.
+2016-02-14 00:03:04 - INFO - Manjkajo vmesni podatki v ../csv/wunder_dan_8.csv.
+2016-02-14 00:03:04 - INFO - Podatki [24] uspesno zapisani v ../csv/wunder_dan_8.csv.
+2016-02-14 00:03:04 - INFO - Zapisujem podatke v ../csv/wunder_dan_9.csv.
+2016-02-14 00:03:04 - INFO - CSV ni prazen, dodajam.
+2016-02-14 00:03:04 - INFO - Manjkajo vmesni podatki v ../csv/wunder_dan_9.csv.
+2016-02-14 00:03:04 - INFO - Podatki [24] uspesno zapisani v ../csv/wunder_dan_9.csv.
+2016-02-14 02:59:02 - INFO - Pridobivam Geopedia podatke.
+2016-02-14 02:59:02 - INFO - Urejam Geopedia podatke.
+2016-02-14 02:59:02 - INFO - Geopedia podatki urejeni.
+2016-02-14 02:59:02 - INFO - Zapisujem podatke v ../csv/fmf_danes.csv.
+2016-02-14 02:59:02 - INFO - CSV ni prazen, dodajam.
+2016-02-14 02:59:02 - INFO - Manjkajo vmesni podatki v ../csv/fmf_danes.csv.
+2016-02-14 02:59:02 - INFO - Podatki [21] uspesno zapisani v ../csv/fmf_danes.csv.
+2016-02-14 02:59:02 - INFO - Zapisujem podatke v ../csv/fmf_jutri.csv.
+2016-02-14 02:59:02 - INFO - CSV ni prazen, dodajam.
+2016-02-14 02:59:02 - INFO - Manjkajo vmesni podatki v ../csv/fmf_jutri.csv.
+2016-02-14 02:59:02 - INFO - Podatki [0] uspesno zapisani v ../csv/fmf_jutri.csv.
+2016-02-15 00:01:02 - INFO - Pridobivam ARSO podatke.
+2016-02-15 00:01:02 - INFO - Urejam ARSO podatke.
+2016-02-15 00:01:02 - INFO - ARSO podatki urejeni.
+2016-02-15 00:01:02 - INFO - Zapisujem podatke v ../csv/izmerjeni_podatki.csv.
+2016-02-15 00:01:02 - INFO - CSV ni prazen, dodajam.
+2016-02-15 00:01:02 - INFO - Podatki [24] uspesno zapisani v ../csv/izmerjeni_podatki.csv.
+2016-02-15 00:02:02 - INFO - Pridobivam AccuWeather podatke.
+2016-02-15 00:02:06 - INFO - Urejam AccuWeather podatke.
+2016-02-15 00:02:06 - INFO - AccuWeather podatki urejeni.
+2016-02-15 00:02:06 - INFO - Zapisujem podatke v ../csv/accu_dan_1.csv.
+2016-02-15 00:02:06 - INFO - CSV ni prazen, dodajam.
+2016-02-15 00:02:06 - INFO - Manjkajo vmesni podatki v ../csv/accu_dan_1.csv.
+2016-02-15 00:02:06 - INFO - Podatki [24] uspesno zapisani v ../csv/accu_dan_1.csv.
+2016-02-15 00:02:06 - INFO - Pridobivam AccuWeather podatke.
+2016-02-15 00:02:09 - INFO - Urejam AccuWeather podatke.
+2016-02-15 00:02:09 - INFO - AccuWeather podatki urejeni.
+2016-02-15 00:02:09 - INFO - Zapisujem podatke v ../csv/accu_dan_2.csv.
+2016-02-15 00:02:09 - INFO - CSV ni prazen, dodajam.
+2016-02-15 00:02:09 - INFO - Manjkajo vmesni podatki v ../csv/accu_dan_2.csv.
+2016-02-15 00:02:09 - INFO - Podatki [24] uspesno zapisani v ../csv/accu_dan_2.csv.
+2016-02-15 00:02:09 - INFO - Pridobivam AccuWeather podatke.
+2016-02-15 00:02:12 - INFO - Urejam AccuWeather podatke.
+2016-02-15 00:02:12 - INFO - AccuWeather podatki urejeni.
+2016-02-15 00:02:12 - INFO - Zapisujem podatke v ../csv/accu_dan_3.csv.
+2016-02-15 00:02:12 - INFO - CSV ni prazen, dodajam.
+2016-02-15 00:02:12 - INFO - Manjkajo vmesni podatki v ../csv/accu_dan_3.csv.
+2016-02-15 00:02:12 - INFO - Podatki [24] uspesno zapisani v ../csv/accu_dan_3.csv.
+2016-02-15 00:02:12 - INFO - Pridobivam AccuWeather podatke.
+2016-02-15 00:02:15 - INFO - Urejam AccuWeather podatke.
+2016-02-15 00:02:15 - INFO - AccuWeather podatki urejeni.
+2016-02-15 00:02:15 - INFO - Zapisujem podatke v ../csv/accu_dan_4.csv.
+2016-02-15 00:02:15 - INFO - CSV ni prazen, dodajam.
+2016-02-15 00:02:15 - INFO - Manjkajo vmesni podatki v ../csv/accu_dan_4.csv.
+2016-02-15 00:02:15 - INFO - Podatki [24] uspesno zapisani v ../csv/accu_dan_4.csv.
+2016-02-15 00:03:02 - INFO - Pridobivam Wunderground podatke.
+2016-02-15 00:03:03 - INFO - Urejam Wunderground podatke.
+2016-02-15 00:03:03 - INFO - Wunderground podatki urejeni.
+2016-02-15 00:03:03 - INFO - Zapisujem podatke v ../csv/wunder_dan_0.csv.
+2016-02-15 00:03:03 - INFO - CSV ni prazen, dodajam.
+2016-02-15 00:03:03 - INFO - Manjkajo vmesni podatki v ../csv/wunder_dan_0.csv.
+2016-02-15 00:03:03 - INFO - Podatki [23] uspesno zapisani v ../csv/wunder_dan_0.csv.
+2016-02-15 00:03:03 - INFO - Zapisujem podatke v ../csv/wunder_dan_1.csv.
+2016-02-15 00:03:03 - INFO - CSV ni prazen, dodajam.
+2016-02-15 00:03:03 - INFO - Manjkajo vmesni podatki v ../csv/wunder_dan_1.csv.
+2016-02-15 00:03:03 - INFO - Podatki [24] uspesno zapisani v ../csv/wunder_dan_1.csv.
+2016-02-15 00:03:03 - INFO - Zapisujem podatke v ../csv/wunder_dan_2.csv.
+2016-02-15 00:03:03 - INFO - CSV ni prazen, dodajam.
+2016-02-15 00:03:03 - INFO - Manjkajo vmesni podatki v ../csv/wunder_dan_2.csv.
+2016-02-15 00:03:03 - INFO - Podatki [24] uspesno zapisani v ../csv/wunder_dan_2.csv.
+2016-02-15 00:03:03 - INFO - Zapisujem podatke v ../csv/wunder_dan_3.csv.
+2016-02-15 00:03:03 - INFO - CSV ni prazen, dodajam.
+2016-02-15 00:03:03 - INFO - Manjkajo vmesni podatki v ../csv/wunder_dan_3.csv.
+2016-02-15 00:03:03 - INFO - Podatki [24] uspesno zapisani v ../csv/wunder_dan_3.csv.
+2016-02-15 00:03:03 - INFO - Zapisujem podatke v ../csv/wunder_dan_4.csv.
+2016-02-15 00:03:03 - INFO - CSV ni prazen, dodajam.
+2016-02-15 00:03:03 - INFO - Manjkajo vmesni podatki v ../csv/wunder_dan_4.csv.
+2016-02-15 00:03:03 - INFO - Podatki [24] uspesno zapisani v ../csv/wunder_dan_4.csv.
+2016-02-15 00:03:03 - INFO - Zapisujem podatke v ../csv/wunder_dan_5.csv.
+2016-02-15 00:03:03 - INFO - CSV ni prazen, dodajam.
+2016-02-15 00:03:03 - INFO - Manjkajo vmesni podatki v ../csv/wunder_dan_5.csv.
+2016-02-15 00:03:03 - INFO - Podatki [24] uspesno zapisani v ../csv/wunder_dan_5.csv.
+2016-02-15 00:03:03 - INFO - Zapisujem podatke v ../csv/wunder_dan_6.csv.
+2016-02-15 00:03:03 - INFO - CSV ni prazen, dodajam.
+2016-02-15 00:03:03 - INFO - Manjkajo vmesni podatki v ../csv/wunder_dan_6.csv.
+2016-02-15 00:03:03 - INFO - Podatki [24] uspesno zapisani v ../csv/wunder_dan_6.csv.
+2016-02-15 00:03:03 - INFO - Zapisujem podatke v ../csv/wunder_dan_7.csv.
+2016-02-15 00:03:03 - INFO - CSV ni prazen, dodajam.
+2016-02-15 00:03:03 - INFO - Manjkajo vmesni podatki v ../csv/wunder_dan_7.csv.
+2016-02-15 00:03:03 - INFO - Podatki [24] uspesno zapisani v ../csv/wunder_dan_7.csv.
+2016-02-15 00:03:03 - INFO - Zapisujem podatke v ../csv/wunder_dan_8.csv.
+2016-02-15 00:03:03 - INFO - CSV ni prazen, dodajam.
+2016-02-15 00:03:03 - INFO - Manjkajo vmesni podatki v ../csv/wunder_dan_8.csv.
+2016-02-15 00:03:03 - INFO - Podatki [24] uspesno zapisani v ../csv/wunder_dan_8.csv.
+2016-02-15 00:03:03 - INFO - Zapisujem podatke v ../csv/wunder_dan_9.csv.
+2016-02-15 00:03:03 - INFO - CSV ni prazen, dodajam.
+2016-02-15 00:03:03 - INFO - Manjkajo vmesni podatki v ../csv/wunder_dan_9.csv.
+2016-02-15 00:03:03 - INFO - Podatki [24] uspesno zapisani v ../csv/wunder_dan_9.csv.
+2016-02-15 02:59:03 - INFO - Pridobivam Geopedia podatke.
+2016-02-15 02:59:03 - INFO - Urejam Geopedia podatke.
+2016-02-16 00:01:02 - INFO - Pridobivam ARSO podatke.
+2016-02-16 00:01:02 - INFO - Urejam ARSO podatke.
+2016-02-16 00:01:02 - INFO - ARSO podatki urejeni.
+2016-02-16 00:01:02 - INFO - Zapisujem podatke v ../csv/izmerjeni_podatki.csv.
+2016-02-16 00:01:02 - INFO - CSV ni prazen, dodajam.
+2016-02-16 00:01:02 - INFO - Podatki [23] uspesno zapisani v ../csv/izmerjeni_podatki.csv.
+2016-02-16 00:02:02 - INFO - Pridobivam AccuWeather podatke.
+2016-02-16 00:02:09 - INFO - Urejam AccuWeather podatke.
+2016-02-16 00:02:09 - INFO - AccuWeather podatki urejeni.
+2016-02-16 00:02:09 - INFO - Zapisujem podatke v ../csv/accu_dan_1.csv.
+2016-02-16 00:02:09 - INFO - CSV ni prazen, dodajam.
+2016-02-16 00:02:09 - INFO - Manjkajo vmesni podatki v ../csv/accu_dan_1.csv.
+2016-02-16 00:02:09 - INFO - Podatki [24] uspesno zapisani v ../csv/accu_dan_1.csv.
+2016-02-16 00:02:09 - INFO - Pridobivam AccuWeather podatke.
+2016-02-16 00:02:12 - INFO - Urejam AccuWeather podatke.
+2016-02-16 00:02:12 - INFO - AccuWeather podatki urejeni.
+2016-02-16 00:02:12 - INFO - Zapisujem podatke v ../csv/accu_dan_2.csv.
+2016-02-16 00:02:12 - INFO - CSV ni prazen, dodajam.
+2016-02-16 00:02:12 - INFO - Manjkajo vmesni podatki v ../csv/accu_dan_2.csv.
+2016-02-16 00:02:12 - INFO - Podatki [24] uspesno zapisani v ../csv/accu_dan_2.csv.
+2016-02-16 00:02:12 - INFO - Pridobivam AccuWeather podatke.
+2016-02-16 00:02:22 - INFO - Urejam AccuWeather podatke.
+2016-02-16 00:02:22 - INFO - AccuWeather podatki urejeni.
+2016-02-16 00:02:22 - INFO - Zapisujem podatke v ../csv/accu_dan_3.csv.
+2016-02-16 00:02:22 - INFO - CSV ni prazen, dodajam.
+2016-02-16 00:02:22 - INFO - Manjkajo vmesni podatki v ../csv/accu_dan_3.csv.
+2016-02-16 00:02:22 - INFO - Podatki [24] uspesno zapisani v ../csv/accu_dan_3.csv.
+2016-02-16 00:02:22 - INFO - Pridobivam AccuWeather podatke.
+2016-02-16 00:02:30 - INFO - Urejam AccuWeather podatke.
+2016-02-16 00:02:30 - INFO - AccuWeather podatki urejeni.
+2016-02-16 00:02:30 - INFO - Zapisujem podatke v ../csv/accu_dan_4.csv.
+2016-02-16 00:02:30 - INFO - CSV ni prazen, dodajam.
+2016-02-16 00:02:30 - INFO - Manjkajo vmesni podatki v ../csv/accu_dan_4.csv.
+2016-02-16 00:02:30 - INFO - Podatki [24] uspesno zapisani v ../csv/accu_dan_4.csv.
+2016-02-16 00:03:02 - INFO - Pridobivam Wunderground podatke.
+2016-02-16 00:03:03 - INFO - Urejam Wunderground podatke.
+2016-02-16 00:03:03 - INFO - Wunderground podatki urejeni.
+2016-02-16 00:03:03 - INFO - Zapisujem podatke v ../csv/wunder_dan_0.csv.
+2016-02-16 00:03:03 - INFO - CSV ni prazen, dodajam.
+2016-02-16 00:03:03 - INFO - Manjkajo vmesni podatki v ../csv/wunder_dan_0.csv.
+2016-02-16 00:03:03 - INFO - Podatki [23] uspesno zapisani v ../csv/wunder_dan_0.csv.
+2016-02-16 00:03:03 - INFO - Zapisujem podatke v ../csv/wunder_dan_1.csv.
+2016-02-16 00:03:03 - INFO - CSV ni prazen, dodajam.
+2016-02-16 00:03:03 - INFO - Manjkajo vmesni podatki v ../csv/wunder_dan_1.csv.
+2016-02-16 00:03:03 - INFO - Podatki [24] uspesno zapisani v ../csv/wunder_dan_1.csv.
+2016-02-16 00:03:03 - INFO - Zapisujem podatke v ../csv/wunder_dan_2.csv.
+2016-02-16 00:03:03 - INFO - CSV ni prazen, dodajam.
+2016-02-16 00:03:03 - INFO - Manjkajo vmesni podatki v ../csv/wunder_dan_2.csv.
+2016-02-16 00:03:03 - INFO - Podatki [24] uspesno zapisani v ../csv/wunder_dan_2.csv.
+2016-02-16 00:03:03 - INFO - Zapisujem podatke v ../csv/wunder_dan_3.csv.
+2016-02-16 00:03:03 - INFO - CSV ni prazen, dodajam.
+2016-02-16 00:03:03 - INFO - Manjkajo vmesni podatki v ../csv/wunder_dan_3.csv.
+2016-02-16 00:03:03 - INFO - Podatki [24] uspesno zapisani v ../csv/wunder_dan_3.csv.
+2016-02-16 00:03:03 - INFO - Zapisujem podatke v ../csv/wunder_dan_4.csv.
+2016-02-16 00:03:03 - INFO - CSV ni prazen, dodajam.
+2016-02-16 00:03:03 - INFO - Manjkajo vmesni podatki v ../csv/wunder_dan_4.csv.
+2016-02-16 00:03:03 - INFO - Podatki [24] uspesno zapisani v ../csv/wunder_dan_4.csv.
+2016-02-16 00:03:03 - INFO - Zapisujem podatke v ../csv/wunder_dan_5.csv.
+2016-02-16 00:03:03 - INFO - CSV ni prazen, dodajam.
+2016-02-16 00:03:03 - INFO - Manjkajo vmesni podatki v ../csv/wunder_dan_5.csv.
+2016-02-16 00:03:03 - INFO - Podatki [24] uspesno zapisani v ../csv/wunder_dan_5.csv.
+2016-02-16 00:03:03 - INFO - Zapisujem podatke v ../csv/wunder_dan_6.csv.
+2016-02-16 00:03:03 - INFO - CSV ni prazen, dodajam.
+2016-02-16 00:03:03 - INFO - Manjkajo vmesni podatki v ../csv/wunder_dan_6.csv.
+2016-02-16 00:03:03 - INFO - Podatki [24] uspesno zapisani v ../csv/wunder_dan_6.csv.
+2016-02-16 00:03:03 - INFO - Zapisujem podatke v ../csv/wunder_dan_7.csv.
+2016-02-16 00:03:03 - INFO - CSV ni prazen, dodajam.
+2016-02-16 00:03:03 - INFO - Manjkajo vmesni podatki v ../csv/wunder_dan_7.csv.
+2016-02-16 00:03:03 - INFO - Podatki [24] uspesno zapisani v ../csv/wunder_dan_7.csv.
+2016-02-16 00:03:03 - INFO - Zapisujem podatke v ../csv/wunder_dan_8.csv.
+2016-02-16 00:03:03 - INFO - CSV ni prazen, dodajam.
+2016-02-16 00:03:03 - INFO - Manjkajo vmesni podatki v ../csv/wunder_dan_8.csv.
+2016-02-16 00:03:03 - INFO - Podatki [24] uspesno zapisani v ../csv/wunder_dan_8.csv.
+2016-02-16 00:03:03 - INFO - Zapisujem podatke v ../csv/wunder_dan_9.csv.
+2016-02-16 00:03:03 - INFO - CSV ni prazen, dodajam.
+2016-02-16 00:03:03 - INFO - Manjkajo vmesni podatki v ../csv/wunder_dan_9.csv.
+2016-02-16 00:03:03 - INFO - Podatki [24] uspesno zapisani v ../csv/wunder_dan_9.csv.
+2016-02-16 02:59:02 - INFO - Pridobivam Geopedia podatke.
+2016-02-16 02:59:02 - INFO - Urejam Geopedia podatke.
+2016-02-16 02:59:02 - INFO - Geopedia podatki urejeni.
+2016-02-16 02:59:02 - INFO - Zapisujem podatke v ../csv/fmf_danes.csv.
+2016-02-16 02:59:02 - INFO - CSV ni prazen, dodajam.
+2016-02-16 02:59:02 - INFO - Manjkajo vmesni podatki v ../csv/fmf_danes.csv.
+2016-02-16 02:59:02 - INFO - Podatki [21] uspesno zapisani v ../csv/fmf_danes.csv.
+2016-02-16 02:59:02 - INFO - Zapisujem podatke v ../csv/fmf_jutri.csv.
+2016-02-16 02:59:02 - INFO - CSV ni prazen, dodajam.
+2016-02-16 02:59:02 - INFO - Manjkajo vmesni podatki v ../csv/fmf_jutri.csv.
+2016-02-16 02:59:02 - INFO - Podatki [0] uspesno zapisani v ../csv/fmf_jutri.csv.
+2016-02-17 00:01:02 - INFO - Pridobivam ARSO podatke.
+2016-02-17 00:01:02 - INFO - Urejam ARSO podatke.
+2016-02-17 00:01:02 - INFO - ARSO podatki urejeni.
+2016-02-17 00:01:02 - INFO - Zapisujem podatke v ../csv/izmerjeni_podatki.csv.
+2016-02-17 00:01:02 - INFO - CSV ni prazen, dodajam.
+2016-02-17 00:01:02 - INFO - Podatki [22] uspesno zapisani v ../csv/izmerjeni_podatki.csv.
+2016-02-17 00:02:02 - INFO - Pridobivam AccuWeather podatke.
+2016-02-17 00:02:03 - INFO - Urejam AccuWeather podatke.
+2016-02-17 00:02:03 - INFO - AccuWeather podatki urejeni.
+2016-02-17 00:02:03 - INFO - Zapisujem podatke v ../csv/accu_dan_1.csv.
+2016-02-17 00:02:03 - INFO - CSV ni prazen, dodajam.
+2016-02-17 00:02:03 - INFO - Manjkajo vmesni podatki v ../csv/accu_dan_1.csv.
+2016-02-17 00:02:03 - INFO - Podatki [24] uspesno zapisani v ../csv/accu_dan_1.csv.
+2016-02-17 00:02:03 - INFO - Pridobivam AccuWeather podatke.
+2016-02-17 00:02:04 - INFO - Urejam AccuWeather podatke.
+2016-02-17 00:02:04 - INFO - AccuWeather podatki urejeni.
+2016-02-17 00:02:04 - INFO - Zapisujem podatke v ../csv/accu_dan_2.csv.
+2016-02-17 00:02:04 - INFO - CSV ni prazen, dodajam.
+2016-02-17 00:02:04 - INFO - Manjkajo vmesni podatki v ../csv/accu_dan_2.csv.
+2016-02-17 00:02:04 - INFO - Podatki [24] uspesno zapisani v ../csv/accu_dan_2.csv.
+2016-02-17 00:02:04 - INFO - Pridobivam AccuWeather podatke.
+2016-02-17 00:02:13 - INFO - Urejam AccuWeather podatke.
+2016-02-17 00:02:13 - INFO - AccuWeather podatki urejeni.
+2016-02-17 00:02:13 - INFO - Zapisujem podatke v ../csv/accu_dan_3.csv.
+2016-02-17 00:02:13 - INFO - CSV ni prazen, dodajam.
+2016-02-17 00:02:13 - INFO - Manjkajo vmesni podatki v ../csv/accu_dan_3.csv.
+2016-02-17 00:02:13 - INFO - Podatki [24] uspesno zapisani v ../csv/accu_dan_3.csv.
+2016-02-17 00:02:13 - INFO - Pridobivam AccuWeather podatke.
+2016-02-17 00:02:15 - INFO - Urejam AccuWeather podatke.
+2016-02-17 00:02:15 - INFO - AccuWeather podatki urejeni.
+2016-02-17 00:02:15 - INFO - Zapisujem podatke v ../csv/accu_dan_4.csv.
+2016-02-17 00:02:15 - INFO - CSV ni prazen, dodajam.
+2016-02-17 00:02:15 - INFO - Manjkajo vmesni podatki v ../csv/accu_dan_4.csv.
+2016-02-17 00:02:15 - INFO - Podatki [24] uspesno zapisani v ../csv/accu_dan_4.csv.
+2016-02-17 00:03:02 - INFO - Pridobivam Wunderground podatke.
+2016-02-17 00:03:03 - INFO - Urejam Wunderground podatke.
+2016-02-17 00:03:03 - INFO - Wunderground podatki urejeni.
+2016-02-17 00:03:03 - INFO - Zapisujem podatke v ../csv/wunder_dan_0.csv.
+2016-02-17 00:03:03 - INFO - CSV ni prazen, dodajam.
+2016-02-17 00:03:03 - INFO - Manjkajo vmesni podatki v ../csv/wunder_dan_0.csv.
+2016-02-17 00:03:03 - INFO - Podatki [23] uspesno zapisani v ../csv/wunder_dan_0.csv.
+2016-02-17 00:03:03 - INFO - Zapisujem podatke v ../csv/wunder_dan_1.csv.
+2016-02-17 00:03:03 - INFO - CSV ni prazen, dodajam.
+2016-02-17 00:03:03 - INFO - Manjkajo vmesni podatki v ../csv/wunder_dan_1.csv.
+2016-02-17 00:03:03 - INFO - Podatki [24] uspesno zapisani v ../csv/wunder_dan_1.csv.
+2016-02-17 00:03:03 - INFO - Zapisujem podatke v ../csv/wunder_dan_2.csv.
+2016-02-17 00:03:03 - INFO - CSV ni prazen, dodajam.
+2016-02-17 00:03:03 - INFO - Manjkajo vmesni podatki v ../csv/wunder_dan_2.csv.
+2016-02-17 00:03:03 - INFO - Podatki [24] uspesno zapisani v ../csv/wunder_dan_2.csv.
+2016-02-17 00:03:03 - INFO - Zapisujem podatke v ../csv/wunder_dan_3.csv.
+2016-02-17 00:03:03 - INFO - CSV ni prazen, dodajam.
+2016-02-17 00:03:03 - INFO - Manjkajo vmesni podatki v ../csv/wunder_dan_3.csv.
+2016-02-17 00:03:03 - INFO - Podatki [24] uspesno zapisani v ../csv/wunder_dan_3.csv.
+2016-02-17 00:03:03 - INFO - Zapisujem podatke v ../csv/wunder_dan_4.csv.
+2016-02-17 00:03:03 - INFO - CSV ni prazen, dodajam.
+2016-02-17 00:03:03 - INFO - Manjkajo vmesni podatki v ../csv/wunder_dan_4.csv.
+2016-02-17 00:03:03 - INFO - Podatki [24] uspesno zapisani v ../csv/wunder_dan_4.csv.
+2016-02-17 00:03:03 - INFO - Zapisujem podatke v ../csv/wunder_dan_5.csv.
+2016-02-17 00:03:03 - INFO - CSV ni prazen, dodajam.
+2016-02-17 00:03:03 - INFO - Manjkajo vmesni podatki v ../csv/wunder_dan_5.csv.
+2016-02-17 00:03:03 - INFO - Podatki [24] uspesno zapisani v ../csv/wunder_dan_5.csv.
+2016-02-17 00:03:03 - INFO - Zapisujem podatke v ../csv/wunder_dan_6.csv.
+2016-02-17 00:03:03 - INFO - CSV ni prazen, dodajam.
+2016-02-17 00:03:03 - INFO - Manjkajo vmesni podatki v ../csv/wunder_dan_6.csv.
+2016-02-17 00:03:03 - INFO - Podatki [24] uspesno zapisani v ../csv/wunder_dan_6.csv.
+2016-02-17 00:03:03 - INFO - Zapisujem podatke v ../csv/wunder_dan_7.csv.
+2016-02-17 00:03:03 - INFO - CSV ni prazen, dodajam.
+2016-02-17 00:03:03 - INFO - Manjkajo vmesni podatki v ../csv/wunder_dan_7.csv.
+2016-02-17 00:03:03 - INFO - Podatki [24] uspesno zapisani v ../csv/wunder_dan_7.csv.
+2016-02-17 00:03:03 - INFO - Zapisujem podatke v ../csv/wunder_dan_8.csv.
+2016-02-17 00:03:03 - INFO - CSV ni prazen, dodajam.
+2016-02-17 00:03:03 - INFO - Manjkajo vmesni podatki v ../csv/wunder_dan_8.csv.
+2016-02-17 00:03:03 - INFO - Podatki [24] uspesno zapisani v ../csv/wunder_dan_8.csv.
+2016-02-17 00:03:03 - INFO - Zapisujem podatke v ../csv/wunder_dan_9.csv.
+2016-02-17 00:03:03 - INFO - CSV ni prazen, dodajam.
+2016-02-17 00:03:03 - INFO - Manjkajo vmesni podatki v ../csv/wunder_dan_9.csv.
+2016-02-17 00:03:03 - INFO - Podatki [24] uspesno zapisani v ../csv/wunder_dan_9.csv.
+2016-02-17 02:59:02 - INFO - Pridobivam Geopedia podatke.
+2016-02-17 02:59:02 - INFO - Urejam Geopedia podatke.
+2016-02-17 02:59:02 - INFO - Geopedia podatki urejeni.
+2016-02-17 02:59:02 - INFO - Zapisujem podatke v ../csv/fmf_danes.csv.
+2016-02-17 02:59:02 - INFO - CSV ni prazen, dodajam.
+2016-02-17 02:59:02 - INFO - Manjkajo vmesni podatki v ../csv/fmf_danes.csv.
+2016-02-17 02:59:02 - INFO - Podatki [21] uspesno zapisani v ../csv/fmf_danes.csv.
+2016-02-17 02:59:02 - INFO - Zapisujem podatke v ../csv/fmf_jutri.csv.
+2016-02-17 02:59:02 - INFO - CSV ni prazen, dodajam.
+2016-02-17 02:59:02 - INFO - Manjkajo vmesni podatki v ../csv/fmf_jutri.csv.
+2016-02-17 02:59:02 - INFO - Podatki [0] uspesno zapisani v ../csv/fmf_jutri.csv.
+2016-02-18 00:01:02 - INFO - Pridobivam ARSO podatke.
+2016-02-18 00:01:02 - INFO - Urejam ARSO podatke.
+2016-02-18 00:01:02 - INFO - ARSO podatki urejeni.
+2016-02-18 00:01:02 - INFO - Zapisujem podatke v ../csv/izmerjeni_podatki.csv.
+2016-02-18 00:01:02 - INFO - CSV ni prazen, dodajam.
+2016-02-18 00:01:02 - INFO - Podatki [24] uspesno zapisani v ../csv/izmerjeni_podatki.csv.
+2016-02-18 00:02:02 - INFO - Pridobivam AccuWeather podatke.
+2016-02-18 00:02:09 - INFO - Urejam AccuWeather podatke.
+2016-02-18 00:02:09 - INFO - AccuWeather podatki urejeni.
+2016-02-18 00:02:09 - INFO - Zapisujem podatke v ../csv/accu_dan_1.csv.
+2016-02-18 00:02:09 - INFO - CSV ni prazen, dodajam.
+2016-02-18 00:02:09 - INFO - Manjkajo vmesni podatki v ../csv/accu_dan_1.csv.
+2016-02-18 00:02:09 - INFO - Podatki [24] uspesno zapisani v ../csv/accu_dan_1.csv.
+2016-02-18 00:02:09 - INFO - Pridobivam AccuWeather podatke.
+2016-02-18 00:02:11 - INFO - Urejam AccuWeather podatke.
+2016-02-18 00:02:11 - INFO - AccuWeather podatki urejeni.
+2016-02-18 00:02:11 - INFO - Zapisujem podatke v ../csv/accu_dan_2.csv.
+2016-02-18 00:02:11 - INFO - CSV ni prazen, dodajam.
+2016-02-18 00:02:11 - INFO - Manjkajo vmesni podatki v ../csv/accu_dan_2.csv.
+2016-02-18 00:02:11 - INFO - Podatki [24] uspesno zapisani v ../csv/accu_dan_2.csv.
+2016-02-18 00:02:11 - INFO - Pridobivam AccuWeather podatke.
+2016-02-18 00:02:14 - INFO - Urejam AccuWeather podatke.
+2016-02-18 00:02:14 - INFO - AccuWeather podatki urejeni.
+2016-02-18 00:02:14 - INFO - Zapisujem podatke v ../csv/accu_dan_3.csv.
+2016-02-18 00:02:14 - INFO - CSV ni prazen, dodajam.
+2016-02-18 00:02:14 - INFO - Manjkajo vmesni podatki v ../csv/accu_dan_3.csv.
+2016-02-18 00:02:14 - INFO - Podatki [24] uspesno zapisani v ../csv/accu_dan_3.csv.
+2016-02-18 00:02:14 - INFO - Pridobivam AccuWeather podatke.
+2016-02-18 00:02:16 - INFO - Urejam AccuWeather podatke.
+2016-02-18 00:02:16 - INFO - AccuWeather podatki urejeni.
+2016-02-18 00:02:16 - INFO - Zapisujem podatke v ../csv/accu_dan_4.csv.
+2016-02-18 00:02:16 - INFO - CSV ni prazen, dodajam.
+2016-02-18 00:02:16 - INFO - Manjkajo vmesni podatki v ../csv/accu_dan_4.csv.
+2016-02-18 00:02:16 - INFO - Podatki [24] uspesno zapisani v ../csv/accu_dan_4.csv.
+2016-02-18 00:03:02 - INFO - Pridobivam Wunderground podatke.
+2016-02-18 00:03:02 - INFO - Urejam Wunderground podatke.
+2016-02-18 00:03:02 - INFO - Wunderground podatki urejeni.
+2016-02-18 00:03:02 - INFO - Zapisujem podatke v ../csv/wunder_dan_0.csv.
+2016-02-18 00:03:02 - INFO - CSV ni prazen, dodajam.
+2016-02-18 00:03:02 - INFO - Manjkajo vmesni podatki v ../csv/wunder_dan_0.csv.
+2016-02-18 00:03:02 - INFO - Podatki [23] uspesno zapisani v ../csv/wunder_dan_0.csv.
+2016-02-18 00:03:02 - INFO - Zapisujem podatke v ../csv/wunder_dan_1.csv.
+2016-02-18 00:03:02 - INFO - CSV ni prazen, dodajam.
+2016-02-18 00:03:02 - INFO - Manjkajo vmesni podatki v ../csv/wunder_dan_1.csv.
+2016-02-18 00:03:02 - INFO - Podatki [24] uspesno zapisani v ../csv/wunder_dan_1.csv.
+2016-02-18 00:03:02 - INFO - Zapisujem podatke v ../csv/wunder_dan_2.csv.
+2016-02-18 00:03:02 - INFO - CSV ni prazen, dodajam.
+2016-02-18 00:03:02 - INFO - Manjkajo vmesni podatki v ../csv/wunder_dan_2.csv.
+2016-02-18 00:03:02 - INFO - Podatki [24] uspesno zapisani v ../csv/wunder_dan_2.csv.
+2016-02-18 00:03:02 - INFO - Zapisujem podatke v ../csv/wunder_dan_3.csv.
+2016-02-18 00:03:02 - INFO - CSV ni prazen, dodajam.
+2016-02-18 00:03:02 - INFO - Manjkajo vmesni podatki v ../csv/wunder_dan_3.csv.
+2016-02-18 00:03:02 - INFO - Podatki [24] uspesno zapisani v ../csv/wunder_dan_3.csv.
+2016-02-18 00:03:02 - INFO - Zapisujem podatke v ../csv/wunder_dan_4.csv.
+2016-02-18 00:03:02 - INFO - CSV ni prazen, dodajam.
+2016-02-18 00:03:02 - INFO - Manjkajo vmesni podatki v ../csv/wunder_dan_4.csv.
+2016-02-18 00:03:02 - INFO - Podatki [24] uspesno zapisani v ../csv/wunder_dan_4.csv.
+2016-02-18 00:03:02 - INFO - Zapisujem podatke v ../csv/wunder_dan_5.csv.
+2016-02-18 00:03:02 - INFO - CSV ni prazen, dodajam.
+2016-02-18 00:03:02 - INFO - Manjkajo vmesni podatki v ../csv/wunder_dan_5.csv.
+2016-02-18 00:03:02 - INFO - Podatki [24] uspesno zapisani v ../csv/wunder_dan_5.csv.
+2016-02-18 00:03:02 - INFO - Zapisujem podatke v ../csv/wunder_dan_6.csv.
+2016-02-18 00:03:02 - INFO - CSV ni prazen, dodajam.
+2016-02-18 00:03:02 - INFO - Manjkajo vmesni podatki v ../csv/wunder_dan_6.csv.
+2016-02-18 00:03:02 - INFO - Podatki [24] uspesno zapisani v ../csv/wunder_dan_6.csv.
+2016-02-18 00:03:02 - INFO - Zapisujem podatke v ../csv/wunder_dan_7.csv.
+2016-02-18 00:03:02 - INFO - CSV ni prazen, dodajam.
+2016-02-18 00:03:02 - INFO - Manjkajo vmesni podatki v ../csv/wunder_dan_7.csv.
+2016-02-18 00:03:03 - INFO - Podatki [24] uspesno zapisani v ../csv/wunder_dan_7.csv.
+2016-02-18 00:03:03 - INFO - Zapisujem podatke v ../csv/wunder_dan_8.csv.
+2016-02-18 00:03:03 - INFO - CSV ni prazen, dodajam.
+2016-02-18 00:03:03 - INFO - Manjkajo vmesni podatki v ../csv/wunder_dan_8.csv.
+2016-02-18 00:03:03 - INFO - Podatki [24] uspesno zapisani v ../csv/wunder_dan_8.csv.
+2016-02-18 00:03:03 - INFO - Zapisujem podatke v ../csv/wunder_dan_9.csv.
+2016-02-18 00:03:03 - INFO - CSV ni prazen, dodajam.
+2016-02-18 00:03:03 - INFO - Manjkajo vmesni podatki v ../csv/wunder_dan_9.csv.
+2016-02-18 00:03:03 - INFO - Podatki [24] uspesno zapisani v ../csv/wunder_dan_9.csv.
+2016-02-18 02:59:02 - INFO - Pridobivam Geopedia podatke.
+2016-02-18 02:59:02 - INFO - Urejam Geopedia podatke.
+2016-02-18 02:59:02 - INFO - Geopedia podatki urejeni.
+2016-02-18 02:59:02 - INFO - Zapisujem podatke v ../csv/fmf_danes.csv.
+2016-02-18 02:59:02 - INFO - CSV ni prazen, dodajam.
+2016-02-18 02:59:02 - INFO - Manjkajo vmesni podatki v ../csv/fmf_danes.csv.
+2016-02-18 02:59:02 - INFO - Podatki [21] uspesno zapisani v ../csv/fmf_danes.csv.
+2016-02-18 02:59:02 - INFO - Zapisujem podatke v ../csv/fmf_jutri.csv.
+2016-02-18 02:59:02 - INFO - CSV ni prazen, dodajam.
+2016-02-18 02:59:02 - INFO - Manjkajo vmesni podatki v ../csv/fmf_jutri.csv.
+2016-02-18 02:59:02 - INFO - Podatki [0] uspesno zapisani v ../csv/fmf_jutri.csv.
+2016-02-19 00:01:03 - INFO - Pridobivam ARSO podatke.
+2016-02-19 00:01:03 - INFO - Urejam ARSO podatke.
+2016-02-19 00:01:03 - INFO - ARSO podatki urejeni.
+2016-02-19 00:01:03 - INFO - Zapisujem podatke v ../csv/izmerjeni_podatki.csv.
+2016-02-19 00:01:03 - INFO - CSV ni prazen, dodajam.
+2016-02-19 00:01:03 - INFO - Podatki [24] uspesno zapisani v ../csv/izmerjeni_podatki.csv.
+2016-02-19 00:02:02 - INFO - Pridobivam AccuWeather podatke.
+2016-02-19 00:02:03 - INFO - Urejam AccuWeather podatke.
+2016-02-19 00:02:03 - INFO - AccuWeather podatki urejeni.
+2016-02-19 00:02:03 - INFO - Zapisujem podatke v ../csv/accu_dan_1.csv.
+2016-02-19 00:02:03 - INFO - CSV ni prazen, dodajam.
+2016-02-19 00:02:03 - INFO - Manjkajo vmesni podatki v ../csv/accu_dan_1.csv.
+2016-02-19 00:02:03 - INFO - Podatki [24] uspesno zapisani v ../csv/accu_dan_1.csv.
+2016-02-19 00:02:03 - INFO - Pridobivam AccuWeather podatke.
+2016-02-19 00:02:04 - INFO - Urejam AccuWeather podatke.
+2016-02-19 00:02:04 - INFO - AccuWeather podatki urejeni.
+2016-02-19 00:02:04 - INFO - Zapisujem podatke v ../csv/accu_dan_2.csv.
+2016-02-19 00:02:04 - INFO - CSV ni prazen, dodajam.
+2016-02-19 00:02:04 - INFO - Manjkajo vmesni podatki v ../csv/accu_dan_2.csv.
+2016-02-19 00:02:04 - INFO - Podatki [24] uspesno zapisani v ../csv/accu_dan_2.csv.
+2016-02-19 00:02:04 - INFO - Pridobivam AccuWeather podatke.
+2016-02-19 00:02:41 - INFO - Urejam AccuWeather podatke.
+2016-02-19 00:02:41 - INFO - AccuWeather podatki urejeni.
+2016-02-19 00:02:41 - INFO - Zapisujem podatke v ../csv/accu_dan_3.csv.
+2016-02-19 00:02:41 - INFO - CSV ni prazen, dodajam.
+2016-02-19 00:02:41 - INFO - Manjkajo vmesni podatki v ../csv/accu_dan_3.csv.
+2016-02-19 00:02:41 - INFO - Podatki [24] uspesno zapisani v ../csv/accu_dan_3.csv.
+2016-02-19 00:02:41 - INFO - Pridobivam AccuWeather podatke.
+2016-02-19 00:02:42 - INFO - Urejam AccuWeather podatke.
+2016-02-19 00:02:42 - INFO - AccuWeather podatki urejeni.
+2016-02-19 00:02:42 - INFO - Zapisujem podatke v ../csv/accu_dan_4.csv.
+2016-02-19 00:02:42 - INFO - CSV ni prazen, dodajam.
+2016-02-19 00:02:42 - INFO - Manjkajo vmesni podatki v ../csv/accu_dan_4.csv.
+2016-02-19 00:02:42 - INFO - Podatki [24] uspesno zapisani v ../csv/accu_dan_4.csv.
+2016-02-19 00:03:03 - INFO - Pridobivam Wunderground podatke.
+2016-02-19 00:03:05 - INFO - Urejam Wunderground podatke.
+2016-02-19 00:03:05 - INFO - Wunderground podatki urejeni.
+2016-02-19 00:03:05 - INFO - Zapisujem podatke v ../csv/wunder_dan_0.csv.
+2016-02-19 00:03:05 - INFO - CSV ni prazen, dodajam.
+2016-02-19 00:03:05 - INFO - Manjkajo vmesni podatki v ../csv/wunder_dan_0.csv.
+2016-02-19 00:03:05 - INFO - Podatki [23] uspesno zapisani v ../csv/wunder_dan_0.csv.
+2016-02-19 00:03:05 - INFO - Zapisujem podatke v ../csv/wunder_dan_1.csv.
+2016-02-19 00:03:05 - INFO - CSV ni prazen, dodajam.
+2016-02-19 00:03:05 - INFO - Manjkajo vmesni podatki v ../csv/wunder_dan_1.csv.
+2016-02-19 00:03:05 - INFO - Podatki [24] uspesno zapisani v ../csv/wunder_dan_1.csv.
+2016-02-19 00:03:05 - INFO - Zapisujem podatke v ../csv/wunder_dan_2.csv.
+2016-02-19 00:03:05 - INFO - CSV ni prazen, dodajam.
+2016-02-19 00:03:05 - INFO - Manjkajo vmesni podatki v ../csv/wunder_dan_2.csv.
+2016-02-19 00:03:05 - INFO - Podatki [24] uspesno zapisani v ../csv/wunder_dan_2.csv.
+2016-02-19 00:03:05 - INFO - Zapisujem podatke v ../csv/wunder_dan_3.csv.
+2016-02-19 00:03:05 - INFO - CSV ni prazen, dodajam.
+2016-02-19 00:03:05 - INFO - Manjkajo vmesni podatki v ../csv/wunder_dan_3.csv.
+2016-02-19 00:03:05 - INFO - Podatki [24] uspesno zapisani v ../csv/wunder_dan_3.csv.
+2016-02-19 00:03:05 - INFO - Zapisujem podatke v ../csv/wunder_dan_4.csv.
+2016-02-19 00:03:05 - INFO - CSV ni prazen, dodajam.
+2016-02-19 00:03:05 - INFO - Manjkajo vmesni podatki v ../csv/wunder_dan_4.csv.
+2016-02-19 00:03:05 - INFO - Podatki [24] uspesno zapisani v ../csv/wunder_dan_4.csv.
+2016-02-19 00:03:05 - INFO - Zapisujem podatke v ../csv/wunder_dan_5.csv.
+2016-02-19 00:03:05 - INFO - CSV ni prazen, dodajam.
+2016-02-19 00:03:05 - INFO - Manjkajo vmesni podatki v ../csv/wunder_dan_5.csv.
+2016-02-19 00:03:05 - INFO - Podatki [24] uspesno zapisani v ../csv/wunder_dan_5.csv.
+2016-02-19 00:03:05 - INFO - Zapisujem podatke v ../csv/wunder_dan_6.csv.
+2016-02-19 00:03:05 - INFO - CSV ni prazen, dodajam.
+2016-02-19 00:03:05 - INFO - Manjkajo vmesni podatki v ../csv/wunder_dan_6.csv.
+2016-02-19 00:03:05 - INFO - Podatki [24] uspesno zapisani v ../csv/wunder_dan_6.csv.
+2016-02-19 00:03:05 - INFO - Zapisujem podatke v ../csv/wunder_dan_7.csv.
+2016-02-19 00:03:05 - INFO - CSV ni prazen, dodajam.
+2016-02-19 00:03:05 - INFO - Manjkajo vmesni podatki v ../csv/wunder_dan_7.csv.
+2016-02-19 00:03:05 - INFO - Podatki [24] uspesno zapisani v ../csv/wunder_dan_7.csv.
+2016-02-19 00:03:05 - INFO - Zapisujem podatke v ../csv/wunder_dan_8.csv.
+2016-02-19 00:03:05 - INFO - CSV ni prazen, dodajam.
+2016-02-19 00:03:05 - INFO - Manjkajo vmesni podatki v ../csv/wunder_dan_8.csv.
+2016-02-19 00:03:05 - INFO - Podatki [24] uspesno zapisani v ../csv/wunder_dan_8.csv.
+2016-02-19 00:03:05 - INFO - Zapisujem podatke v ../csv/wunder_dan_9.csv.
+2016-02-19 00:03:05 - INFO - CSV ni prazen, dodajam.
+2016-02-19 00:03:05 - INFO - Manjkajo vmesni podatki v ../csv/wunder_dan_9.csv.
+2016-02-19 00:03:05 - INFO - Podatki [24] uspesno zapisani v ../csv/wunder_dan_9.csv.
+2016-02-19 02:59:02 - INFO - Pridobivam Geopedia podatke.
+2016-02-19 02:59:02 - INFO - Urejam Geopedia podatke.
+2016-02-20 00:01:03 - INFO - Pridobivam ARSO podatke.
+2016-02-20 00:01:03 - INFO - Urejam ARSO podatke.
+2016-02-20 00:01:03 - INFO - ARSO podatki urejeni.
+2016-02-20 00:01:03 - INFO - Zapisujem podatke v ../csv/izmerjeni_podatki.csv.
+2016-02-20 00:01:03 - INFO - CSV ni prazen, dodajam.
+2016-02-20 00:01:03 - INFO - Podatki [24] uspesno zapisani v ../csv/izmerjeni_podatki.csv.
+2016-02-20 00:02:02 - INFO - Pridobivam AccuWeather podatke.
+2016-02-20 00:02:04 - INFO - Urejam AccuWeather podatke.
+2016-02-20 00:02:04 - INFO - AccuWeather podatki urejeni.
+2016-02-20 00:02:04 - INFO - Zapisujem podatke v ../csv/accu_dan_1.csv.
+2016-02-20 00:02:04 - INFO - CSV ni prazen, dodajam.
+2016-02-20 00:02:04 - INFO - Manjkajo vmesni podatki v ../csv/accu_dan_1.csv.
+2016-02-20 00:02:04 - INFO - Podatki [24] uspesno zapisani v ../csv/accu_dan_1.csv.
+2016-02-20 00:02:04 - INFO - Pridobivam AccuWeather podatke.
+2016-02-20 00:02:06 - INFO - Urejam AccuWeather podatke.
+2016-02-20 00:02:06 - INFO - AccuWeather podatki urejeni.
+2016-02-20 00:02:06 - INFO - Zapisujem podatke v ../csv/accu_dan_2.csv.
+2016-02-20 00:02:06 - INFO - CSV ni prazen, dodajam.
+2016-02-20 00:02:06 - INFO - Manjkajo vmesni podatki v ../csv/accu_dan_2.csv.
+2016-02-20 00:02:06 - INFO - Podatki [24] uspesno zapisani v ../csv/accu_dan_2.csv.
+2016-02-20 00:02:06 - INFO - Pridobivam AccuWeather podatke.
+2016-02-20 00:02:07 - INFO - Urejam AccuWeather podatke.
+2016-02-20 00:02:07 - INFO - AccuWeather podatki urejeni.
+2016-02-20 00:02:07 - INFO - Zapisujem podatke v ../csv/accu_dan_3.csv.
+2016-02-20 00:02:07 - INFO - CSV ni prazen, dodajam.
+2016-02-20 00:02:07 - INFO - Manjkajo vmesni podatki v ../csv/accu_dan_3.csv.
+2016-02-20 00:02:07 - INFO - Podatki [24] uspesno zapisani v ../csv/accu_dan_3.csv.
+2016-02-20 00:02:07 - INFO - Pridobivam AccuWeather podatke.
+2016-02-20 00:02:08 - INFO - Urejam AccuWeather podatke.
+2016-02-20 00:02:08 - INFO - AccuWeather podatki urejeni.
+2016-02-20 00:02:08 - INFO - Zapisujem podatke v ../csv/accu_dan_4.csv.
+2016-02-20 00:02:08 - INFO - CSV ni prazen, dodajam.
+2016-02-20 00:02:08 - INFO - Manjkajo vmesni podatki v ../csv/accu_dan_4.csv.
+2016-02-20 00:02:08 - INFO - Podatki [24] uspesno zapisani v ../csv/accu_dan_4.csv.
+2016-02-20 00:03:02 - INFO - Pridobivam Wunderground podatke.
+2016-02-20 00:03:04 - INFO - Urejam Wunderground podatke.
+2016-02-20 00:03:04 - INFO - Wunderground podatki urejeni.
+2016-02-20 00:03:04 - INFO - Zapisujem podatke v ../csv/wunder_dan_0.csv.
+2016-02-20 00:03:04 - INFO - CSV ni prazen, dodajam.
+2016-02-20 00:03:04 - INFO - Manjkajo vmesni podatki v ../csv/wunder_dan_0.csv.
+2016-02-20 00:03:04 - INFO - Podatki [23] uspesno zapisani v ../csv/wunder_dan_0.csv.
+2016-02-20 00:03:04 - INFO - Zapisujem podatke v ../csv/wunder_dan_1.csv.
+2016-02-20 00:03:04 - INFO - CSV ni prazen, dodajam.
+2016-02-20 00:03:04 - INFO - Manjkajo vmesni podatki v ../csv/wunder_dan_1.csv.
+2016-02-20 00:03:04 - INFO - Podatki [24] uspesno zapisani v ../csv/wunder_dan_1.csv.
+2016-02-20 00:03:04 - INFO - Zapisujem podatke v ../csv/wunder_dan_2.csv.
+2016-02-20 00:03:04 - INFO - CSV ni prazen, dodajam.
+2016-02-20 00:03:04 - INFO - Manjkajo vmesni podatki v ../csv/wunder_dan_2.csv.
+2016-02-20 00:03:04 - INFO - Podatki [24] uspesno zapisani v ../csv/wunder_dan_2.csv.
+2016-02-20 00:03:04 - INFO - Zapisujem podatke v ../csv/wunder_dan_3.csv.
+2016-02-20 00:03:04 - INFO - CSV ni prazen, dodajam.
+2016-02-20 00:03:04 - INFO - Manjkajo vmesni podatki v ../csv/wunder_dan_3.csv.
+2016-02-20 00:03:04 - INFO - Podatki [24] uspesno zapisani v ../csv/wunder_dan_3.csv.
+2016-02-20 00:03:04 - INFO - Zapisujem podatke v ../csv/wunder_dan_4.csv.
+2016-02-20 00:03:04 - INFO - CSV ni prazen, dodajam.
+2016-02-20 00:03:04 - INFO - Manjkajo vmesni podatki v ../csv/wunder_dan_4.csv.
+2016-02-20 00:03:04 - INFO - Podatki [24] uspesno zapisani v ../csv/wunder_dan_4.csv.
+2016-02-20 00:03:04 - INFO - Zapisujem podatke v ../csv/wunder_dan_5.csv.
+2016-02-20 00:03:04 - INFO - CSV ni prazen, dodajam.
+2016-02-20 00:03:04 - INFO - Manjkajo vmesni podatki v ../csv/wunder_dan_5.csv.
+2016-02-20 00:03:04 - INFO - Podatki [24] uspesno zapisani v ../csv/wunder_dan_5.csv.
+2016-02-20 00:03:04 - INFO - Zapisujem podatke v ../csv/wunder_dan_6.csv.
+2016-02-20 00:03:04 - INFO - CSV ni prazen, dodajam.
+2016-02-20 00:03:04 - INFO - Manjkajo vmesni podatki v ../csv/wunder_dan_6.csv.
+2016-02-20 00:03:04 - INFO - Podatki [24] uspesno zapisani v ../csv/wunder_dan_6.csv.
+2016-02-20 00:03:04 - INFO - Zapisujem podatke v ../csv/wunder_dan_7.csv.
+2016-02-20 00:03:04 - INFO - CSV ni prazen, dodajam.
+2016-02-20 00:03:04 - INFO - Manjkajo vmesni podatki v ../csv/wunder_dan_7.csv.
+2016-02-20 00:03:04 - INFO - Podatki [24] uspesno zapisani v ../csv/wunder_dan_7.csv.
+2016-02-20 00:03:04 - INFO - Zapisujem podatke v ../csv/wunder_dan_8.csv.
+2016-02-20 00:03:04 - INFO - CSV ni prazen, dodajam.
+2016-02-20 00:03:04 - INFO - Manjkajo vmesni podatki v ../csv/wunder_dan_8.csv.
+2016-02-20 00:03:04 - INFO - Podatki [24] uspesno zapisani v ../csv/wunder_dan_8.csv.
+2016-02-20 00:03:04 - INFO - Zapisujem podatke v ../csv/wunder_dan_9.csv.
+2016-02-20 00:03:04 - INFO - CSV ni prazen, dodajam.
+2016-02-20 00:03:04 - INFO - Manjkajo vmesni podatki v ../csv/wunder_dan_9.csv.
+2016-02-20 00:03:04 - INFO - Podatki [24] uspesno zapisani v ../csv/wunder_dan_9.csv.
+2016-02-20 02:59:02 - INFO - Pridobivam Geopedia podatke.
+2016-02-20 02:59:03 - INFO - Urejam Geopedia podatke.
+2016-02-21 00:01:02 - INFO - Pridobivam ARSO podatke.
+2016-02-21 00:01:02 - INFO - Urejam ARSO podatke.
+2016-02-21 00:01:02 - INFO - ARSO podatki urejeni.
+2016-02-21 00:01:02 - INFO - Zapisujem podatke v ../csv/izmerjeni_podatki.csv.
+2016-02-21 00:01:02 - INFO - CSV ni prazen, dodajam.
+2016-02-21 00:01:02 - INFO - Podatki [24] uspesno zapisani v ../csv/izmerjeni_podatki.csv.
+2016-02-21 00:02:02 - INFO - Pridobivam AccuWeather podatke.
+2016-02-21 00:02:03 - INFO - Urejam AccuWeather podatke.
+2016-02-21 00:02:03 - INFO - AccuWeather podatki urejeni.
+2016-02-21 00:02:03 - INFO - Zapisujem podatke v ../csv/accu_dan_1.csv.
+2016-02-21 00:02:03 - INFO - CSV ni prazen, dodajam.
+2016-02-21 00:02:03 - INFO - Manjkajo vmesni podatki v ../csv/accu_dan_1.csv.
+2016-02-21 00:02:03 - INFO - Podatki [24] uspesno zapisani v ../csv/accu_dan_1.csv.
+2016-02-21 00:02:03 - INFO - Pridobivam AccuWeather podatke.
+2016-02-21 00:02:04 - INFO - Urejam AccuWeather podatke.
+2016-02-21 00:02:04 - INFO - AccuWeather podatki urejeni.
+2016-02-21 00:02:04 - INFO - Zapisujem podatke v ../csv/accu_dan_2.csv.
+2016-02-21 00:02:04 - INFO - CSV ni prazen, dodajam.
+2016-02-21 00:02:04 - INFO - Manjkajo vmesni podatki v ../csv/accu_dan_2.csv.
+2016-02-21 00:02:04 - INFO - Podatki [24] uspesno zapisani v ../csv/accu_dan_2.csv.
+2016-02-21 00:02:04 - INFO - Pridobivam AccuWeather podatke.
+2016-02-21 00:02:05 - INFO - Urejam AccuWeather podatke.
+2016-02-21 00:02:05 - INFO - AccuWeather podatki urejeni.
+2016-02-21 00:02:05 - INFO - Zapisujem podatke v ../csv/accu_dan_3.csv.
+2016-02-21 00:02:05 - INFO - CSV ni prazen, dodajam.
+2016-02-21 00:02:05 - INFO - Manjkajo vmesni podatki v ../csv/accu_dan_3.csv.
+2016-02-21 00:02:05 - INFO - Podatki [24] uspesno zapisani v ../csv/accu_dan_3.csv.
+2016-02-21 00:02:05 - INFO - Pridobivam AccuWeather podatke.
+2016-02-21 00:02:06 - INFO - Urejam AccuWeather podatke.
+2016-02-21 00:02:06 - INFO - AccuWeather podatki urejeni.
+2016-02-21 00:02:06 - INFO - Zapisujem podatke v ../csv/accu_dan_4.csv.
+2016-02-21 00:02:06 - INFO - CSV ni prazen, dodajam.
+2016-02-21 00:02:06 - INFO - Manjkajo vmesni podatki v ../csv/accu_dan_4.csv.
+2016-02-21 00:02:06 - INFO - Podatki [24] uspesno zapisani v ../csv/accu_dan_4.csv.
+2016-02-21 00:03:02 - INFO - Pridobivam Wunderground podatke.
+2016-02-21 00:03:03 - INFO - Urejam Wunderground podatke.
+2016-02-21 00:03:03 - INFO - Wunderground podatki urejeni.
+2016-02-21 00:03:03 - INFO - Zapisujem podatke v ../csv/wunder_dan_0.csv.
+2016-02-21 00:03:03 - INFO - CSV ni prazen, dodajam.
+2016-02-21 00:03:03 - INFO - Manjkajo vmesni podatki v ../csv/wunder_dan_0.csv.
+2016-02-21 00:03:03 - INFO - Podatki [23] uspesno zapisani v ../csv/wunder_dan_0.csv.
+2016-02-21 00:03:03 - INFO - Zapisujem podatke v ../csv/wunder_dan_1.csv.
+2016-02-21 00:03:03 - INFO - CSV ni prazen, dodajam.
+2016-02-21 00:03:03 - INFO - Manjkajo vmesni podatki v ../csv/wunder_dan_1.csv.
+2016-02-21 00:03:03 - INFO - Podatki [24] uspesno zapisani v ../csv/wunder_dan_1.csv.
+2016-02-21 00:03:03 - INFO - Zapisujem podatke v ../csv/wunder_dan_2.csv.
+2016-02-21 00:03:03 - INFO - CSV ni prazen, dodajam.
+2016-02-21 00:03:03 - INFO - Manjkajo vmesni podatki v ../csv/wunder_dan_2.csv.
+2016-02-21 00:03:03 - INFO - Podatki [24] uspesno zapisani v ../csv/wunder_dan_2.csv.
+2016-02-21 00:03:03 - INFO - Zapisujem podatke v ../csv/wunder_dan_3.csv.
+2016-02-21 00:03:03 - INFO - CSV ni prazen, dodajam.
+2016-02-21 00:03:03 - INFO - Manjkajo vmesni podatki v ../csv/wunder_dan_3.csv.
+2016-02-21 00:03:03 - INFO - Podatki [24] uspesno zapisani v ../csv/wunder_dan_3.csv.
+2016-02-21 00:03:03 - INFO - Zapisujem podatke v ../csv/wunder_dan_4.csv.
+2016-02-21 00:03:03 - INFO - CSV ni prazen, dodajam.
+2016-02-21 00:03:03 - INFO - Manjkajo vmesni podatki v ../csv/wunder_dan_4.csv.
+2016-02-21 00:03:03 - INFO - Podatki [24] uspesno zapisani v ../csv/wunder_dan_4.csv.
+2016-02-21 00:03:03 - INFO - Zapisujem podatke v ../csv/wunder_dan_5.csv.
+2016-02-21 00:03:03 - INFO - CSV ni prazen, dodajam.
+2016-02-21 00:03:03 - INFO - Manjkajo vmesni podatki v ../csv/wunder_dan_5.csv.
+2016-02-21 00:03:03 - INFO - Podatki [24] uspesno zapisani v ../csv/wunder_dan_5.csv.
+2016-02-21 00:03:03 - INFO - Zapisujem podatke v ../csv/wunder_dan_6.csv.
+2016-02-21 00:03:03 - INFO - CSV ni prazen, dodajam.
+2016-02-21 00:03:03 - INFO - Manjkajo vmesni podatki v ../csv/wunder_dan_6.csv.
+2016-02-21 00:03:03 - INFO - Podatki [24] uspesno zapisani v ../csv/wunder_dan_6.csv.
+2016-02-21 00:03:03 - INFO - Zapisujem podatke v ../csv/wunder_dan_7.csv.
+2016-02-21 00:03:03 - INFO - CSV ni prazen, dodajam.
+2016-02-21 00:03:03 - INFO - Manjkajo vmesni podatki v ../csv/wunder_dan_7.csv.
+2016-02-21 00:03:03 - INFO - Podatki [24] uspesno zapisani v ../csv/wunder_dan_7.csv.
+2016-02-21 00:03:03 - INFO - Zapisujem podatke v ../csv/wunder_dan_8.csv.
+2016-02-21 00:03:03 - INFO - CSV ni prazen, dodajam.
+2016-02-21 00:03:03 - INFO - Manjkajo vmesni podatki v ../csv/wunder_dan_8.csv.
+2016-02-21 00:03:03 - INFO - Podatki [24] uspesno zapisani v ../csv/wunder_dan_8.csv.
+2016-02-21 00:03:03 - INFO - Zapisujem podatke v ../csv/wunder_dan_9.csv.
+2016-02-21 00:03:03 - INFO - CSV ni prazen, dodajam.
+2016-02-21 00:03:03 - INFO - Manjkajo vmesni podatki v ../csv/wunder_dan_9.csv.
+2016-02-21 00:03:03 - INFO - Podatki [24] uspesno zapisani v ../csv/wunder_dan_9.csv.
+2016-02-21 02:59:02 - INFO - Pridobivam Geopedia podatke.
+2016-02-21 02:59:03 - INFO - Urejam Geopedia podatke.
+2016-02-21 02:59:03 - INFO - Geopedia podatki urejeni.
+2016-02-21 02:59:03 - INFO - Zapisujem podatke v ../csv/fmf_danes.csv.
+2016-02-21 02:59:03 - INFO - CSV ni prazen, dodajam.
+2016-02-21 02:59:03 - INFO - Manjkajo vmesni podatki v ../csv/fmf_danes.csv.
+2016-02-21 02:59:03 - INFO - Podatki [21] uspesno zapisani v ../csv/fmf_danes.csv.
+2016-02-21 02:59:03 - INFO - Zapisujem podatke v ../csv/fmf_jutri.csv.
+2016-02-21 02:59:03 - INFO - CSV ni prazen, dodajam.
+2016-02-21 02:59:03 - INFO - Manjkajo vmesni podatki v ../csv/fmf_jutri.csv.
+2016-02-21 02:59:03 - INFO - Podatki [0] uspesno zapisani v ../csv/fmf_jutri.csv.
+2016-02-22 00:01:02 - INFO - Pridobivam ARSO podatke.
+2016-02-22 00:01:03 - INFO - Urejam ARSO podatke.
+2016-02-22 00:01:03 - INFO - ARSO podatki urejeni.
+2016-02-22 00:01:03 - INFO - Zapisujem podatke v ../csv/izmerjeni_podatki.csv.
+2016-02-22 00:01:03 - INFO - CSV ni prazen, dodajam.
+2016-02-22 00:01:03 - INFO - Podatki [24] uspesno zapisani v ../csv/izmerjeni_podatki.csv.
+2016-02-22 00:02:02 - INFO - Pridobivam AccuWeather podatke.
+2016-02-22 00:02:03 - INFO - Urejam AccuWeather podatke.
+2016-02-22 00:02:03 - INFO - AccuWeather podatki urejeni.
+2016-02-22 00:02:03 - INFO - Zapisujem podatke v ../csv/accu_dan_1.csv.
+2016-02-22 00:02:03 - INFO - CSV ni prazen, dodajam.
+2016-02-22 00:02:03 - INFO - Manjkajo vmesni podatki v ../csv/accu_dan_1.csv.
+2016-02-22 00:02:03 - INFO - Podatki [24] uspesno zapisani v ../csv/accu_dan_1.csv.
+2016-02-22 00:02:03 - INFO - Pridobivam AccuWeather podatke.
+2016-02-22 00:02:03 - INFO - Urejam AccuWeather podatke.
+2016-02-22 00:02:03 - INFO - AccuWeather podatki urejeni.
+2016-02-22 00:02:03 - INFO - Zapisujem podatke v ../csv/accu_dan_2.csv.
+2016-02-22 00:02:03 - INFO - CSV ni prazen, dodajam.
+2016-02-22 00:02:03 - INFO - Manjkajo vmesni podatki v ../csv/accu_dan_2.csv.
+2016-02-22 00:02:03 - INFO - Podatki [24] uspesno zapisani v ../csv/accu_dan_2.csv.
+2016-02-22 00:02:03 - INFO - Pridobivam AccuWeather podatke.
+2016-02-22 00:02:04 - INFO - Urejam AccuWeather podatke.
+2016-02-22 00:02:04 - INFO - AccuWeather podatki urejeni.
+2016-02-22 00:02:04 - INFO - Zapisujem podatke v ../csv/accu_dan_3.csv.
+2016-02-22 00:02:04 - INFO - CSV ni prazen, dodajam.
+2016-02-22 00:02:04 - INFO - Manjkajo vmesni podatki v ../csv/accu_dan_3.csv.
+2016-02-22 00:02:04 - INFO - Podatki [24] uspesno zapisani v ../csv/accu_dan_3.csv.
+2016-02-22 00:02:04 - INFO - Pridobivam AccuWeather podatke.
+2016-02-22 00:02:09 - INFO - Urejam AccuWeather podatke.
+2016-02-22 00:02:09 - INFO - AccuWeather podatki urejeni.
+2016-02-22 00:02:09 - INFO - Zapisujem podatke v ../csv/accu_dan_4.csv.
+2016-02-22 00:02:09 - INFO - CSV ni prazen, dodajam.
+2016-02-22 00:02:09 - INFO - Manjkajo vmesni podatki v ../csv/accu_dan_4.csv.
+2016-02-22 00:02:09 - INFO - Podatki [24] uspesno zapisani v ../csv/accu_dan_4.csv.
+2016-02-22 00:03:02 - INFO - Pridobivam Wunderground podatke.
+2016-02-22 00:03:03 - INFO - Urejam Wunderground podatke.
+2016-02-22 00:03:03 - INFO - Wunderground podatki urejeni.
+2016-02-22 00:03:03 - INFO - Zapisujem podatke v ../csv/wunder_dan_0.csv.
+2016-02-22 00:03:03 - INFO - CSV ni prazen, dodajam.
+2016-02-22 00:03:03 - INFO - Manjkajo vmesni podatki v ../csv/wunder_dan_0.csv.
+2016-02-22 00:03:03 - INFO - Podatki [23] uspesno zapisani v ../csv/wunder_dan_0.csv.
+2016-02-22 00:03:03 - INFO - Zapisujem podatke v ../csv/wunder_dan_1.csv.
+2016-02-22 00:03:03 - INFO - CSV ni prazen, dodajam.
+2016-02-22 00:03:03 - INFO - Manjkajo vmesni podatki v ../csv/wunder_dan_1.csv.
+2016-02-22 00:03:03 - INFO - Podatki [24] uspesno zapisani v ../csv/wunder_dan_1.csv.
+2016-02-22 00:03:03 - INFO - Zapisujem podatke v ../csv/wunder_dan_2.csv.
+2016-02-22 00:03:03 - INFO - CSV ni prazen, dodajam.
+2016-02-22 00:03:03 - INFO - Manjkajo vmesni podatki v ../csv/wunder_dan_2.csv.
+2016-02-22 00:03:03 - INFO - Podatki [24] uspesno zapisani v ../csv/wunder_dan_2.csv.
+2016-02-22 00:03:03 - INFO - Zapisujem podatke v ../csv/wunder_dan_3.csv.
+2016-02-22 00:03:03 - INFO - CSV ni prazen, dodajam.
+2016-02-22 00:03:03 - INFO - Manjkajo vmesni podatki v ../csv/wunder_dan_3.csv.
+2016-02-22 00:03:03 - INFO - Podatki [24] uspesno zapisani v ../csv/wunder_dan_3.csv.
+2016-02-22 00:03:03 - INFO - Zapisujem podatke v ../csv/wunder_dan_4.csv.
+2016-02-22 00:03:03 - INFO - CSV ni prazen, dodajam.
+2016-02-22 00:03:03 - INFO - Manjkajo vmesni podatki v ../csv/wunder_dan_4.csv.
+2016-02-22 00:03:03 - INFO - Podatki [24] uspesno zapisani v ../csv/wunder_dan_4.csv.
+2016-02-22 00:03:03 - INFO - Zapisujem podatke v ../csv/wunder_dan_5.csv.
+2016-02-22 00:03:03 - INFO - CSV ni prazen, dodajam.
+2016-02-22 00:03:03 - INFO - Manjkajo vmesni podatki v ../csv/wunder_dan_5.csv.
+2016-02-22 00:03:03 - INFO - Podatki [24] uspesno zapisani v ../csv/wunder_dan_5.csv.
+2016-02-22 00:03:03 - INFO - Zapisujem podatke v ../csv/wunder_dan_6.csv.
+2016-02-22 00:03:03 - INFO - CSV ni prazen, dodajam.
+2016-02-22 00:03:03 - INFO - Manjkajo vmesni podatki v ../csv/wunder_dan_6.csv.
+2016-02-22 00:03:03 - INFO - Podatki [24] uspesno zapisani v ../csv/wunder_dan_6.csv.
+2016-02-22 00:03:03 - INFO - Zapisujem podatke v ../csv/wunder_dan_7.csv.
+2016-02-22 00:03:03 - INFO - CSV ni prazen, dodajam.
+2016-02-22 00:03:03 - INFO - Manjkajo vmesni podatki v ../csv/wunder_dan_7.csv.
+2016-02-22 00:03:03 - INFO - Podatki [24] uspesno zapisani v ../csv/wunder_dan_7.csv.
+2016-02-22 00:03:03 - INFO - Zapisujem podatke v ../csv/wunder_dan_8.csv.
+2016-02-22 00:03:03 - INFO - CSV ni prazen, dodajam.
+2016-02-22 00:03:03 - INFO - Manjkajo vmesni podatki v ../csv/wunder_dan_8.csv.
+2016-02-22 00:03:03 - INFO - Podatki [24] uspesno zapisani v ../csv/wunder_dan_8.csv.
+2016-02-22 00:03:03 - INFO - Zapisujem podatke v ../csv/wunder_dan_9.csv.
+2016-02-22 00:03:03 - INFO - CSV ni prazen, dodajam.
+2016-02-22 00:03:03 - INFO - Manjkajo vmesni podatki v ../csv/wunder_dan_9.csv.
+2016-02-22 00:03:03 - INFO - Podatki [24] uspesno zapisani v ../csv/wunder_dan_9.csv.
+2016-02-22 02:59:02 - INFO - Pridobivam Geopedia podatke.
+2016-02-22 02:59:02 - INFO - Urejam Geopedia podatke.
+2016-02-22 02:59:02 - INFO - Geopedia podatki urejeni.
+2016-02-22 02:59:02 - INFO - Zapisujem podatke v ../csv/fmf_danes.csv.
+2016-02-22 02:59:02 - INFO - CSV ni prazen, dodajam.
+2016-02-22 02:59:02 - INFO - Manjkajo vmesni podatki v ../csv/fmf_danes.csv.
+2016-02-22 02:59:02 - INFO - Podatki [21] uspesno zapisani v ../csv/fmf_danes.csv.
+2016-02-22 02:59:02 - INFO - Zapisujem podatke v ../csv/fmf_jutri.csv.
+2016-02-22 02:59:02 - INFO - CSV ni prazen, dodajam.
+2016-02-22 02:59:02 - INFO - Manjkajo vmesni podatki v ../csv/fmf_jutri.csv.
+2016-02-22 02:59:02 - INFO - Podatki [0] uspesno zapisani v ../csv/fmf_jutri.csv.
+2016-02-23 00:01:02 - INFO - Pridobivam ARSO podatke.
+2016-02-23 00:02:02 - INFO - Pridobivam AccuWeather podatke.
+2016-02-23 00:03:02 - INFO - Pridobivam Wunderground podatke.
+2016-02-23 02:59:02 - INFO - Pridobivam Geopedia podatke.
